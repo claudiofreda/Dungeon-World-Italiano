@@ -174,19 +174,27 @@ A seconda del risultato del tiro di *ultimo respiro* il personaggio potrebbe div
 
 ### Dopo la morte
 
-Essere un avventuriero non è facile: sono notti fredde nelle terre selvagge e spade affilate e mostri. Prima o poi, dovrai fare anche tu quella lunga camminata fino ai Neri Cancelli e concedere la tua anima. Ciò non significa che tu debba darle la soddisfazione di restare. La morte, in un certo senso, è un'altra sfida da vincere. Anche gli avventurieri morti possono tornare alla vita.
+Essere un avventuriero non è facile: sono notti fredde nelle terre selvagge e spade affilate e mostri. Prima o poi, dovrai fare anche tu quella lunga camminata fino ai Neri Cancelli e concedere la tua anima. Ciò non significa che tu debba darle la soddisfazione di restare. La morte, in un certo senso, è un'altra sfida da superare. Anche gli avventurieri morti possono tornare in vita.
 
-Se il tuo personaggio muore puoi chiedere al GM e agli altri giocatori di provare a resuscitarti. Il GM dirà qual'è il prezzo per riportare alla vita il tuo povero personaggio. Se riuscite a soddisfare le condizioni del GM il personaggio torna in vita. L'incantesimo *resurrezione*è un caso speciale: la magia dell'incantesimo ti fornisce una via più rapida per riavere indietro un compagno di viaggio, ma il GM ha spazio per dire la sua.
+Se il tuo personaggio muore puoi chiedere al GM e agli altri giocatori di provare a resuscitarti. Il GM dirà qual'è il prezzo per riportare alla vita il tuo povero personaggio. Se riuscite a soddisfare le condizioni del GM il personaggio torna in vita. L'incantesimo *resurrezione* è un caso speciale: la magia dell'incantesimo ti fornisce una via più rapida per riavere indietro un compagno di viaggio, ma il GM ha spazio per dire la sua.
 
-Qualunque siano le tue prospettive di resurrezione, per adesso crea un nuovo personaggio. Magari un gregario diventa un avventuriero a tutti gli effetti degno di una fetta più grossa del bottino ed un vero ruolo nell'azione. Forse durante il loro soggiorno in città i personaggi trovano un nuovo amico desideroso di unirsi a loro. O forse il tuo personaggio aveva un parente vendicativo che ora ha deciso di munirsi di armi e incantesimi e rettificare il torto subìto. In ogni caso, crea il tuo personaggio normalmente, al livello 1.
+Qualunque siano le tue prospettive di resurrezione, per adesso crea un nuovo personaggio. Magari un gregario diventerà un avventuriero a tutti gli effetti degno di una fetta più grossa del bottino e di un vero ruolo nell'azione. Forse durante il loro soggiorno in città i personaggi troveranno un nuovo amico desideroso di unirsi a loro. O forse il tuo personaggio aveva un parente vendicativo che ora ha deciso di munirsi di armi e incantesimi e rettificare il torto subìto. In ogni caso, crea il tuo personaggio normalmente, al livello 1.
+
+> **NdC**: Una delle regole più contestate del gioco è quella di far iniziare i nuovi personaggi al livello 1. Personalmente, non sono d'accordo. Anche se Dungeon World non ha un concetto di progressione aritmetica come nel famoso D&D, avere molte mosse a disposizione tende a rendere il personaggio più divertente da giocare, perché permette di manipolare il racconto in maniere più drastiche.
+>
+> Essendo le mosse avanzate la più grande ricompensa del gioco in termini di vero e proprio 'divertimento', ricominciare al livello 1 scoraggia enormemente i giocatori a permettere che i loro personaggi muoiano. Il mio suggerimento è -- prendete questa decisione tutti insieme -- di far ricominciare il nuovo personaggio di un giocatore il cui personaggio è morto con lo stesso livello ed esperienza di quello vecchio.
+> 
+> Il lato negativo, e la *ratio* per la regola originale, sarebbe che ogni mossa ottenuta durante un avanzamento è uno spunto per raccontare qualcosa di nuovo sul personaggio, e averle subito potrebbe rovinare questo processo.
+>
+> In ogni caso, questa regola è molto secondaria rispetto alle meccaniche chiave del gioco. Modificarla in un modo o nell'altro non ne cambia drasticamente il funzionamento. Al lettore, dunque, la decisione.
 
 Se il tuo personaggio precedente torna in vita puoi giocare entrambi i personaggi, alternando tra i due come desideri (purché abbia senso).
 
-GM, quando dici ai giocatori che cosa devono fare per resuscitare il loro compagno, non dev'essere per forza qualcosa che devii il corso del gioco. Integra la cosa nella storia appoggiandoti su ciò che già sai. Questa è un'ottima opportunità per spostare il centro dell'attenzione o per introdurre un elemento che non vedevi l'ora di mostrare. D'altro canto, non pensare che debba essere una missione epica e maestosa. Se il personaggio è morto infilzato su una lancia goblin, probabilmente basterà una marcia impacciata verso casa e un migliaio di pezzi d'oro in dono al tempio della zona. Pensa a quali potrebbero essere le conseguenze di un tale atto di carità e come potrebbero influenzare il mondo. Ricorda: la Morte non dimentica mai le anime sottratte al suo regno.
+Per il GM: quando spieghi ai giocatori cosa devono fare per resuscitare il loro compagno, non dev'essere per forza qualcosa che devii il corso della loro avventura. Integra gli eventi nella storia appoggiandoti a ciò che già sai. Questa è un'ottima opportunità per spostare il centro dell'attenzione o per introdurre un elemento che non vedevi l'ora di mostrare. D'altro canto, non pensare che debba essere una missione epica e maestosa. Se il personaggio è morto infilzato sulla lancia di un goblin, probabilmente basterà una marcia impacciata verso casa e il dono di un migliaio di pezzi d'oro al tempio locale. Pensa però a quali potrebbero essere le conseguenze di un tale atto di carità e come potrebbero influenzare il mondo. Ricorda: la Morte non dimentica mai le anime sottratte al suo regno.
 
 ## Debilitazioni
 
-Perdere PF è un effetto generico, rappresenta lividi, tagli, fatica, e così via. Alcune ferite, però, fanno più male. Si tratta di debilitazioni.
+Perdere PF è un effetto generico: rappresenta lividi, tagli, fatica, e così via. Alcune ferite, però, fanno più male. Si tratta di debilitazioni.
 
 * **Indebolito (FOR)**: Non riesci ad esercitare molta forza. Potrebbe trattarsi della fatica o di una brutta ferita, o forse la tua energia è stata prosciugata da un incantesimo.
 
@@ -210,9 +218,9 @@ Le debilitazioni non sono un'alternativa alla descrizione e al seguire la fictio
 
 # Magia
 
-Dungeon World è un posto fantastico: ci sono molte cose oltre al fango, al sangue e alla birra in taverna. Fuoco e aria evocati dai puri elementi naturali. Preghiere di salute, possenza e punizione divina. "Magia" è il nome dato a queste capacità che non derivano dalla forza degli uomini o delle bestie ma da forze trascendenti.
+Dungeon World è un posto fantastico: ci sono molte cose oltre al fango, al sangue e alla birra in taverna: fuoco e aria evocati dai puri elementi naturali, o preghiere di salute, possenza e punizione divina. «Magia» è il nome dato a queste capacità che non derivano dalla forza degli uomini o delle bestie ma da forze trascendenti.
 
-Magia significa molte cose. La capacità del druido di assumere la forma di un animale è magia, come gli effetti studiati del mago e le benedizioni divine del chierico. Qualunque capacità vada oltre ciò che è materialmente possibile è magica.
+Magia può significare molte cose: la capacità del druido di assumere la forma di un animale è magia, come gli effetti studiati del mago e le benedizioni divine del chierico. Qualunque capacità vada oltre ciò che è materialmente possibile è magica.
 
 ## Incantesimi
 
@@ -222,11 +230,11 @@ Il percorso fondamentale per usare la magia è: conosci, prepara, lancia e dimen
 
 Gli incantesimi conosciuti sono quelli che un incantatore padroneggia abbastanza da poterli preparare. Il chierico conosce tutti gli incantesimi del proprio livello o inferiori, comprese le orazioni. Il mago inizia il gioco con la conoscenza dei trucchetti e di tre incantesimi di primo livello. Ogni volta che il mago ottiene un livello, impara un nuovo incantesimo. Il mago scrive gli incantesimi conosciuti nel proprio libro degli incantesimi.
 
-Anche quando un incantatore conosce un incantesimo, deve prepararlo prima di poterlo lanciare. Con abbastanza tempo a disposizione, come descritto nelle mosse *comunione* e*preparare incantesimi*, l'incantatore può preparare un numero di incantesimi che conosce il cui livello totale sia uguale o inferiore al livello dell'incantatore più 1. Il mago prepara sempre i trucchetti, il chierico prepara sempre le orazioni. Un incantesimo preparato è pronto per essere lanciato.
+Anche quando un incantatore conosce un incantesimo, deve prepararlo prima di poterlo lanciare. Con abbastanza tempo a disposizione, come descritto nelle mosse *comunione* e *preparare incantesimi*, l'incantatore può preparare un numero di incantesimi che conosce il cui livello totale sia uguale o inferiore al livello dell'incantatore più 1. Il mago prepara sempre i trucchetti, il chierico prepara sempre le orazioni. Un incantesimo preparato è pronto per essere lanciato.
 
 Lanciare un incantesimo può comportare l’invocazione di una divinità, salmodiare, agitare le mani, appellarsi a forze mistiche, e così via. Per lanciare un incantesimo solitamente devi fare la mossa *lancia un incantesimo*. Su un risultato di 10+ l'incantesimo ha effetto, con un 7–9 l'incantatore è nei guai e deve fare una scelta, ma l'incantesimo è comunque lanciato. Alcuni incantesimi hanno un effetto continuato: una volta lanciati, restano attivi fino a quando qualcosa vi pone fine.
 
-Un'opzione sul risultato di 7–9 è di dimenticare l'incantesimo o averlo revocato dalla propria divinità. Un incantesimo dimenticato o revocato è considerato ancora conosciuto, ma non preparato, e quindi non lanciabile. Quando l'incantatore *prepara incantesimi* o fa *comunione* può preparare nuovamente l'incantesimo.
+Un'opzione sul risultato di 7–9 è di dimenticare l'incantesimo o che la propria divinità lo revochi. Un incantesimo dimenticato o revocato è considerato ancora conosciuto, ma non preparato, e quindi non lanciabile. Quando l'incantatore *prepara incantesimi* o fa *comunione* può preparare nuovamente l'incantesimo.
 
 # Evoluzione dei Personaggi
 

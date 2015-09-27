@@ -2,11 +2,12 @@
 title: Mosse
 layout: default
 ---
+
 # Mosse Basilari
 
 Questo capitolo contiene le mosse disponibili ad ogni personaggio. Queste mosse sono divise in due categorie: basilari e speciali.
 
-Le mosse basilari sono il pane quotidiano della vita da avventuriero. Comprendono le situazioni più comuni durante combattimenti, negoziati carichi di tensione, e l'esplorazione di luoghi pericolosi.
+Le mosse basilari sono il pane quotidiano della vita da avventuriero. Coprono le situazioni più comuni durante combattimenti, negoziati carichi di tensione e l'esplorazione di luoghi pericolosi.
 
 Le mosse speciali sono un po' più rare. Comprendono azioni come salire di livello, intraprendere un lungo viaggio, o tornare in città tra un'avventura e un'altra.
 
@@ -14,61 +15,71 @@ Tutti i personaggi giocanti hanno a disposizione le mosse basilari e le mosse sp
 
 Ciascuna mossa è descritta con il suo nome e le regole della mossa. Alcune sono accompagnate da una breve spiegazione di come usare la mossa e da alcuni esempi di utilizzo durante il gioco.
 
-## Taglia e Spacca[^assalire]
+## Gettarsi nella Mischia
 
-[^assalire]: *NdT*: In altre traduzioni questa mossa è chiamata "Assalire"
-
-Quando **attacchi un nemico in mischia**, tira+FOR. ✴Con un 10+, infliggi i tuoi danni al nemico ed eviti il suo attacco. A tua scelta, puoi decidere di infliggere +1d6 danni ed esporti all'attacco del nemico. ✴Con un 7&ndash;9, infliggi i tuoi danni al nemico, ma il nemico effettua un attacco contro di te. 
+Quando **attacchi un nemico in mischia** in grado di rispondere al tuo attacco, tira+FOR. ✴Con un 10+, infliggi i tuoi danni al nemico ed eviti il suo attacco. A tua scelta, puoi decidere di infliggere +1d6 danni ed esporti all'attacco del nemico. ✴Con un 7&ndash;9, infliggi i tuoi danni al nemico, ma il nemico porta a compimento il suo attacco. 
 
 ---
 
-*Taglia e spacca*, in parole povere, serve quando si attacca un nemico pronto a difendersi. Se il nemico non è pronto a difendersi dal tuo attacco — non sa che sei lì o è immobilizzato e indifeso — allora non è *taglia e spacca*. Semplicemente infliggi i tuoi danni, oppure lo uccidi sul colpo, a seconda della situazione. È roba forte.
+> *NdT*: Dato che causa spesso problemi di comprensione, il testo riassuntivo di questa mossa è stato chiarificato rispetto all'edizione in lingua inglese. Il nuovo testo chiarificato prende in considerazione quanto scritto dagli autori nella descrizione completa qua sotto. Il funzionamento effettivo della mossa è lo stesso.
+>
+> Originariamente questa mossa era stata tradotta con il neologismo «Taglia e Spacca». Nell'edizione di Narrattiva, e nel materiale che ad essa fa riferimento, questa mossa è invece chiamata «Assalire».
+>
+> «Taglia e Spacca» era appropriato, ma si è preferito scegliere infine una traduzione che comunicasse effettivamente lo scopo della mossa: una mischia fragorosa e confusa. «Assalire» è piuttosto fuorviante, invece, perché sembra indicare uno scontro dove uno solo dei contendenti attacca: proprio il contrario di quello che questa mossa rappresenta.
+
+*Gettarsi nella Mischia*, in parole povere, serve quando si attacca un nemico pronto a difendersi. Se il nemico non è pronto a difendersi dal tuo attacco — non sa che sei lì o è immobilizzato e indifeso — allora non è *Gettarsi nella Mischia*. Semplicemente infliggi i tuoi danni, oppure lo uccidi sul colpo, a seconda della situazione. È roba forte.
+
+> *NdC*: Ricordiamo al lettore di prendere in considerazione la portata delle armi (cfr. capitolo Equipaggiamento) ed eventuali altri dettagli del racconto per determinare se *Gettarsi nella Mischia** effettivamente si attiva. Non tutte le armi e non tutti i combattenti sono uguali, e questa mossa si applica solo in condizioni di scontro più o meno equilibrate, ovvero dove entrambi rischiano di farsi del male. Una creatura più minuta del PG potrebbe semplicemente cercare una posizione vantaggiosa per attaccare o un obiettivo secondario, obbligando il giocatore a far scattare **Sfidare il Pericolo** per impedirglielo.
 
 Il contrattacco del nemico può essere qualunque mossa del GM fatta direttamente attraverso quella creatura. Un goblin potrebbe semplicemente contrattaccarti o infilarti un ago avvelenato nelle vene. La vita è dura, non credi?
 
-Tieni presente che un "attacco" è qualunque azione intrapresa da un giocatore che abbia la possibilità di arrecare danno a qualcuno. Attaccare un drago con scaglie cariche di energia magica e spesse un dito con una spada qualunque è come colpire un carro armato con una mannaia: semplicemente, non ha la possibilità di arrecare alcun danno, e *taglia e spacca* non si attiva. Ovviamente, le circostanze possono cambiare: se sei in una posizione da dove puoi infilzare il drago nella sua pancia soffice (buona fortuna ad arrivare lì sotto) potrebbe fare male, quindi conta come attacco.
+> *NdC*: Ricordiamo al lettore che il GM non tira dadi in Dungeon World, e che quindi ciò che qui gli autori chiamano «il contrattacco» è semplicemente una conseguenza negativa scelta dal GM legata al combattimento. Nel caso di un mostro, si prende spunto dalla sua lista di mosse.
 
-Se l'azione che attiva può ragionevolmente fare del male a più di un bersaglio, tira una sola volta e applica i danni a ciascun bersaglio (ciascuno applica la propria armatura).
+Tieni presente che un "attacco" è qualunque azione intrapresa da un giocatore che abbia la possibilità di arrecare danno a qualcuno. Attaccare un drago con scaglie cariche di energia magica e spesse un dito con una spada qualunque è come colpire un carro armato con una mannaia: semplicemente, non ha la possibilità di arrecare alcun danno, e *Gettarsi nella Mischia* non si attiva. Ovviamente, le circostanze possono cambiare: se sei in una posizione da dove puoi infilzare il drago nella sua pancia soffice (buona fortuna ad arrivare lì sotto) potrebbe fare male, quindi conta come attacco.
 
-Alcuni attacchi potrebbero avere degli effetti aggiuntivi a seconda dell'azione nella fiction che li ha innescati, le circostanze, o le armi utilizzate. Un attacco potrebbe mandare qualcuno al tappeto, immobilizzarlo, o lasciare una grande macchia di sangue.
+Se l'azione che attiva *Gettarsi nella Mischia* può ragionevolmente fare del male a più di un bersaglio, tira i danni una sola volta e applicali a ciascun bersaglio (ciascuno applica la propria armatura).
+
+Alcuni attacchi potrebbero avere degli effetti aggiuntivi a seconda dell'azione nel *racconto* che li ha innescati, le circostanze, o le armi utilizzate. Un attacco potrebbe mandare qualcuno al tappeto, immobilizzarlo, o lasciare una grande macchia di sangue.
 
 > **GM**: Jarl, la folla di bavosi goblin è arrivata fino alla tua considerevole pancia. Ti hanno circondato e hanno estratto i coltelli. Che cosa fai?
 >
 > **Jarl**: Ne ho avuto abbastanza! Pesto il goblin più vicino con il mio martello.
 >
-> **GM**: Va bene. Questo è sicuramente un combattimento, quindi stai usando *taglia e spacca*. Tira+FOR.
+> **GM**: Va bene. Questo è sicuramente un combattimento, quindi stai attivando *Gettarsi nella Mischia*. Tira+FOR.
 >
-> **Jarl**: Ho fatto 11. Dice qua che posso scegliere. La paura è per i deboli, venite a me goblin!
+> **Jarl**: Ho fatto 11. Dice qua che posso scegliere se subire il loro attacco, e la paura è per i deboli. Venite a me, goblin!
 >
 > **GM**: Schianti il tuo martello sul goblin più vicino e senti il soddisfacente suono delle sue ossa che si sfracellano. Quello, e il dolore di una ferita del suo coltello, quando ti contrattacca. Ti infligge 4 danni. Che cosa fai?
 
 <!--separatore-->
 
-> **GM**: Cadeus, dalle ombre dove sei nascosto, puoi prendere di sorpresa quegli orchi guerrieri.
+> **GM**: Cadeus, dalla zona d'ombra sei nascosto puoi prendere di sorpresa quei guerrieri orchi.
 >
-> **Cadeus**: Salto fuori e calo la mia spada in un fendente verticale! Proprio così! Siiii!
+> **Cadeus**: Salto fuori e calo la mia spada con un fendente verticale! Proprio così! Siiii!
 >
-> **GM**: Bene, non se l'aspettavano, li prendi completamente alla sprovvista e ne falci uno. Tira i tuoi danni.
+> **GM**: Bene, non se l'aspettavano. Li prendi completamente alla sprovvista e ne falci uno. Tira i tuoi danni.
 >
 > **Cadeus**: Infliggo 6 danni.
 >
-> **GM**: L'orco crolla per terra formando un ammasso sanguinolento! Il secondo orco si ferma e sorride con le sue orribili zanne, alzando il suo corno di segnalazione dalla cintura! Che cosa fai?
+> **GM**: L'orco crolla per terra formando un ammasso sanguinolento! Il secondo orco si ferma e digrigna le sue orribili zanne, alzando il corno di segnalazione che aveva alla cintura! Che cosa fai?
 
 <!--separatore-->
 
-> **GM**: Bartleby, c'è Finbar il Magnifico, il miglior duellante di questa terra, completamente disarmato e alla tua mercé.
+> **GM**: Bartleby, hai Finbar il Magnifico, il miglior duellante di questa terra, completamente disarmato e alla tua mercé.
 >
 > **Bartleby**: Non ti darò la possibilità di tradirmi ancora, Finbar! Lo attraverso con la spada.
 >
-> **GM**: Bene, è un *taglia e spacca* però. Tira+FOR.
+> **GM**: Bene, è *Gettarsi nella Mischia* però. Tira+FOR.
 >
 > **Bartleby**: Se lo dici tu ... ho fatto 7.
 >
-> **GM**: Bene, lo infilzi subito perché non può nemmeno difendersi e ... aspetta un attimo. Sai cosa, non è in mischia con te. È indifeso, lascia stare *taglia e spacca*, è morto. Cade a terra, sputando sangue, ma il suono dell'allarme della guardia compare in lontananza. Che cosa fai?
+> **GM**: Bene, lo infilzi subito perché non può nemmeno difendersi e ... aspetta un attimo. Sai cosa, non è in mischia con te. È indifeso, lascia stare Gettarsi nella Mischia*, è morto. Cade a terra, sputando sangue, ma il suono dell'allarme della guardia compare in lontananza. Che cosa fai?
 
-## Raffica[^tirare]
+## Raffica
 
-[^tirare]: *NdT*: In altre traduzioni questa mossa è chiamata "Tirare"
+> *NdT*: Nell'edizione di Narrattiva, e nel materiale che ad essa fa riferimento, questa mossa è chiamata «Tirare».
+>
+> A differenza di come spesso interpretato, la mossa fa riferimento a un numero imprecisato di colpi.
 
 Quando **prendi la mira per colpire un nemico a distanza**, tira+DES. ✴Con un 10+, è un colpo sicuro&mdash;infliggi i tuoi danni. ✴Con un 7&ndash;9, scegli un'opzione (infliggi comunque i danni qualunque opzione tu scelga):
 
@@ -126,6 +137,8 @@ Quando **agisci nonostante una minaccia incombente** o **ti esponi al pericolo**
 *Sfidare il pericolo* si usa anche quando fai un'altra mossa nonostante un pericolo non previsto da quella mossa. Ad esempio, *taglia e spacca* presume che ci sia uno scambio di colpi in battaglia — non serve *sfidare il pericolo* del mostro che stai combattendo a meno che non ci sia un pericolo particolare che non è parte del tuo normale attacco. Se invece stai cercando di attaccare nonostante gli spuntoni che vengono sparati da trappole nascoste nel muro, è un pericolo completamente diverso.
 
 Il pericolo, in questo caso, è qualunque cosa che richieda resistenza, concentrazione o compostezza. Questa mossa verrà solitamente messa il gioco dal GM. Ti dirà qual'è il pericolo mentre fai la tua mossa. Sarà qualcosa come "Devi sfidare il pericolo prima. Il pericolo è il pavimento ghiacciato e scosceso su cui stai correndo. Se riesci a mantenere l'equilibrio, puoi arrivare alla porta prima che gli incantesimi del negromante ti colpiscano".
+
+> *NdC*: Mi trovo a dover sconsigliare l'approccio proposto dagli autori: Il GM non dovrebbe *mai* suggerire la mossa da attivare. Il GM dovrebbe semplicemente descrivere il pericolo, il giocatore descrivere quel che fa il suo PG, e poi si dovrebbe individuare insieme la mossa appropriata: essa sarà molto probabilmente *Sfidare il Pericolo*, ma il giocatore potrebbe attivare un'altra mossa o inventarsi un modo di evitare completamente il pericolo senza rischio per sé stesso e non attivare alcuna mossa. Fare come suggeriscono gli autori provoca solamente una risposta noiosa del tipo «ok, sfido il pericolo», che poi costringe il GM a chiedere una specifica.
 
 Quale sia la capacità da applicare dipende dalle azioni che fai, e le tue azioni devono innescare la mossa. Ciò significa che non puoi *sfidare il pericolo* del pavimento ghiacciato e scosceso con un sorriso affascinante solo per usare CAR, perché sorridere con fascino al pavimento non gli fa proprio niente. D'altro canto, fare un grande salto oltre il ghiaccio sarebbe FOR, misurare i passi con attenzione sarebbe DES, e così via. Fai la mossa per scoprire i risultati.
 
@@ -212,9 +225,9 @@ Difendere te stesso è sempre un'opzione. Significa rinunciare a fare attacchi p
 > **Adrian**: Hai ragione, non sono proprio “rimasto a difendere” alla fine. Fa niente, sei da sola, Durga!
 
 
-## Declamare Conoscenze[^rivelare]
+## Declamare Conoscenze
 
-[^rivelare]: *NdT*: In altre traduzioni questa mossa è chiamata "Rivelare Conoscenze"
+> *NdT*: Nell'edizione di Narrattiva, e nel materiale che ad essa fa riferimento, questa mossa è chiamata «Rivelare Conoscenze»
 
 Quando **consulti la tua conoscenza accumulata a proposito di qualcosa**, tira+INT. ✴Con un 10+, il GM ti dirà qualcosa di interessante e utile di un argomento relativo alla tua situazione. ✴Con un 7–9 il GM ti dirà qualcosa di interessante — sta a te renderlo utile. Il GM potrebbe chiederti come fai a saperlo. Raccontagli la verità, adesso.
 
@@ -254,9 +267,9 @@ Nel caso non fosse chiaro, le risposte sono sempre vere, anche se il GM le ha do
 >
 > **Vitus**: Dardi incantati di fuoco, urrà!
 
-## Discernere Realtà[^percepire]
+## Discernere la Realtà[^percepire]
 
-[^percepire]: *NdT*: In altre traduzioni questa mossa è chiamata "Percepire la Realtà"
+[^percepire]: *NdT*: In altre traduzioni questa mossa è chiamata «Percepire la Realtà»
 
 Quando **studi attentamente una situazione o una persona**, tira+SAG. ✴Con un 10+, fai al GM tre domande dalla lista sotto. ✴Con un 7–9, fai una domanda.
 
@@ -297,9 +310,9 @@ Ovviamente, alcune domande potrebbero avere una risposta negativa, va bene. Se d
 >
 > **GM**: Tombola.
 
-## Parlamentare[^parle]
+## Parlamentare
 
-[^parle]: *NdT*: In altre traduzioni questa mossa è chiamata "Parlé"
+> *NdT*: Nell'edizione di Narrattiva, e nel materiale che ad essa fa riferimento, questa mossa è chiamata «Parlé».
 
 Quando **hai qualche modo per far leva su un personaggio del GM e lo manipoli**, tira+CAR. Devi far leva con qualcosa che vuole o di cui ha bisogno. ✴Con un 10+, farà quello che dici se prometti di dargli ciò che chiede. ✴Con un 7–9, farà ciò che dici, ma dovrai dargli una garanzia concreta della tua promessa, subito.
 
@@ -391,7 +404,7 @@ Quando **fai una mossa mentre trasporti peso** potresti essere sovraccarico. Se 
 
 Il carico di un PG è derivato dalla sua classe e dalla sua FOR. Potersi portare più roba dietro è un chiaro beneficio sia quando si cerca di portare un tesoro via da un dungeon sia quando si cerca solamente di portarsi dietro ciò che serve.
 
-Questa mossa si applica solo alle cose che una persona può portarsi dietro e comunque agire. Portare un masso sulla schiena non è un *ingombro*: non puoi davvero agire o muoverti mentre lo tieni. Determina invece quali mosse puoi fare appropriatamente nella fiction.
+Questa mossa si applica solo alle cose che una persona può portarsi dietro mentre fa altre cose. Portare un masso sulla schiena non è un *ingombro*: non puoi davvero agire o muoverti mentre lo tieni. Determina sempre le mosse da eseguire in base ai dettagli del *racconto*.
 
 ## Accamparsi
 
@@ -469,7 +482,7 @@ Quando **torni trionfante e dai una grande festa**, spendi 100 monete e tira +1 
 
 ## Fare rifornimento
 
-Quando **vai a comprare qualcosa con l'oro in mano**, se è prontamente reperibile nell'insediamento in cui ti trovi, puoi comprarla al prezzo di mercato. Se è qualcosa di speciale, al di là di quanto normalmente disponibile in questo luogo, o straordinario, tira+CAR. ✴Con 10+, trovi ciò che stai cercando a un prezzo onesto. ✴Con 7–9 dovrai pagare di più o accontentarti di qualcosa che non è esattamente ciò che vuoi, ma si avvicina. Il GM ti dirà quali sono le tue opzioni.
+Quando **vai a comprare qualcosa con l'oro a portata di mano**, se è prontamente reperibile nell'insediamento in cui ti trovi, puoi comprarla al prezzo di mercato. Se è qualcosa di speciale, al di là di quanto normalmente disponibile in questo luogo, o straordinario, tira+CAR. ✴Con 10+, trovi ciò che stai cercando a un prezzo onesto. ✴Con 7–9 dovrai pagare di più o accontentarti di qualcosa che non è esattamente ciò che vuoi, ma si avvicina. Il GM ti dirà quali sono le tue opzioni.
 
 ---
 
@@ -481,7 +494,7 @@ Quando **non fai altro che riposare in sicurezza e tranquillità** dopo un giorn
 
 ## Reclutare
 
-Quando **diffondi la voce che sei in cerca di qualcuno da assumere**, tira:
+Quando **diffondi la voce che sei in cerca di qualcuno da reclutare**, tira:
 
 * +1 se fai sapere che la paga è abbondante
 * +1 se fai sapere che cosa ti stai preparando a fare
@@ -492,9 +505,9 @@ Quando **diffondi la voce che sei in cerca di qualcuno da assumere**, tira:
 
 ---
 
-## Ricercato[^wanted]
+## Ricercato
 
-[^wanted]: *NdT*: In altre traduzioni questa mossa è chiamata "WANTED"
+> *NdT*: Nell'edizione di Narrattiva, e nel materiale che ad essa fa riferimento, questa mossa è chiamata «WANTED».
 
 Quando **torni in un luogo civilizzato dove hai causato problemi in passato**, tira+CAR. ✴Con un 10+, si è diffusa voce dei tuoi atti e tutti ti riconoscono. ✴Con un 7–9, come sopra, e il GM sceglie una complicazione:
 
@@ -513,4 +526,3 @@ Civilizzato significa solitamente i villaggi, i paesi e le città degli uomini, 
 Quando **passi il tuo tempo libero a studiare, meditare o allenarti duramente,** ottieni addestramento. Se ti prepari per una settimana o più, ottieni addestramento 1. Se ti prepari per un mese o più, ottieni invece addestramento 3. Quando la preparazione ti torna utile, spendi 1 addestramento per avere +1 a qualsiasi tiro. Puoi spendere 1 addestramento al massimo per tiro.
 
 _[Prosegui al prossimo capitolo: Equipaggiamento!](/equipaggiamento)_
-
