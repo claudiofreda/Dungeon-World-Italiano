@@ -2,49 +2,50 @@
 title: Come Giocare
 layout: default
 ---
-Giocare a Dungeon World è come una conversazione; qualcuno dice qualcosa, poi tu rispondi, e magari qualcun altro dice la sua. Ciò di cui si parla è la *fiction*: il mondo dei personaggi e delle cose che accadono attorno a loro. Mentre si gioca, anche le regole diranno la propria; anche loro hanno qualcosa da dire sul mondo. Non ci sono turni, round o giri in Dungeon World, non ci sono regole che dicono di chi sia il turno di parlare. Invece, i giocatori si alternano seguendo il flusso naturale della conversazione, che prevede sempre un po' di botta e risposta. Il GM dice qualcosa, i giocatori rispondono. I giocatori fanno domande o affermazioni, il GM gli dice cosa succede subito dopo. Dungeon World non è mai un monologo; è sempre una conversazione.
 
-Le regole aiutano a dare forma alla conversazione durante il gioco. Mentre il GM e i giocatori parlano, anche le regole e la fiction parlano. Ciascuna regola si attiva esplicitamente a partire dalla fiction, dicendoti quando è il momento di portarla all'interno della conversazione.
+Dungeon World, alla base, è una conversazione: qualcuno farà un'affermazione, tu risponderai, e magari qualcun altro interverrà dicendo la sua. L’argomento di questa conversazione è ciò che chiamiamo **il racconto**: il mondo dei protagonisti e gli eventi che accadono loro attorno. Anche le regole di Dungeon World avranno qualcosa da dire sul *racconto*, aggiungendo dettagli e cambiando le sorti dei personaggi. Non ci sono turni, round o giri in Dungeon World, non ci sono regole che dettino a chi spetti parlare: i giocatori si alternano seguendo il flusso naturale della conversazione, che prevede sempre un po’ di botta e risposta. Il GM dirà qualcosa e i giocatori risponderanno, oppure i giocatori faranno domande e affermazioni e il GM racconterà quel che accade di conseguenza. Dungeon World non è mai un monologo, ma sempre una conversazione.
 
-Come in ogni conversazione, il tempo che passi ad ascoltare è importante quanto il tempo che passi a parlare. I dettagli che vengono creati e decisi dalle altre persone al tavolo (il GM e gli altri giocatori) sono importanti per te: potrebbero cambiare le mosse che fai, fornire un'opportunità, o creare una sfida che devi superare. La conversazione funziona meglio quando tutti ascoltano, fanno domande e costruiscono sul contributo di ciascun altro.
+Le regole danno forma alla conversazione con il procedere del gioco. Mentre il GM e i giocatori parlano, anche le regole parlano. Ciascuna regola si attiva esplicitamente a partire da eventi nel *racconto*, e ciascuna indica quale sia il momento giusto per inserirla nella conversazione.
 
-Questo capitolo ti spiegherà come giocare a Dungeon World. Qui potrai trovare una spiegazione delle regole — come si manifestano e danno un contributo al gioco. Parleremo sia di regole generali, come fare le mosse e regole più specifiche, come quelle per gestire i danni e i punti ferita.
+Come in ogni conversazione, il tempo passato ad ascoltare è importante quanto il tempo passato a parlare. I dettagli del racconto creati e decisi dalle altre persone al tavolo (il GM e gli altri giocatori) sono essenziali: potrebbero attivarsi regole diverse, aprirsi nuove opportunità, o presentarsi nuove sfide da superare. La conversazione funziona meglio quando tutti ascoltano, fanno domande e costruiscono sul contributo di ciascun altro.
 
-# Punteggi di Capacità e Modificatori
+Questo capitolo ti spiegherà come giocare a Dungeon World. Qui potrai trovare una spiegazione delle regole, ovvero come si manifestano e danno un contributo al gioco. Parleremo sia di regole generali, come eseguire le mosse, e regole più specifiche, come quelle per gestire i danni e i punti ferita.
 
-La maggior parte delle regole si basa sui punteggi di capacità di un personaggio giocante e sui loro modificatori. Le capacità sono Forza, Costituzione, Destrezza, Intelligenza, Saggezza, Carisma. Esse misurano le capacità pure di un PG in ciascuna delle suddette aree, su una scala da 3 a 18, dove 18 è il massimo potenziale di un mortale.
+# Attributi e Modificatori
 
-Ogni capacità ha un modificatore associato ad essa che si somma al risultato quando si tirano i dadi su quell'abilità. Si fa riferimento al modificatore con delle abbreviazioni di tre lettere: FOR, COS, DES, INT, SAG, CAR. I modificatori vanno da -3 a +3 e sono sempre direttamente derivati dal punteggio di capacità.
+La maggior parte delle regole si basa sugli attributi di un protagonista e sui loro modificatori. Gli attributi sono Forza, Costituzione, Destrezza, Intelligenza, Saggezza, Carisma. Essi misurano le capacità pure di un PG in ciascuna delle suddette aree, su una scala da 3 a 18, dove 18 è il massimo potenziale di un mortale.
 
-# Fare le Mosse
+Ogni attributo ha un modificatore che si somma al risultato dei tiri di dadi ad esso associati. Si fa riferimento al modificatore con delle abbreviazioni di tre lettere: FOR, COS, DES, INT, SAG, CAR. I modificatori variano da -3 a +3 e sono sempre direttamente dipendenti dall'attributo.
+
+# Eseguire le Mosse
 
 L'unità basilare di regolamento in Dungeon World è la mossa. Una mossa ha questo aspetto.
 
 ---
 
-Quando **attacchi un nemico in mischia**, tira+FOR. ✴Con un 10+, infliggi i tuoi danni al nemico e eviti il suo attacco. A tua scelta, puoi scegliere di fare +1d6 danni e subire l'attacco. ✴Con un 7–9, infliggi i tuoi danni al nemico e il nemico fa un attacco contro di te.
+Quando **attacchi un nemico in mischia**, tira+FOR. ✴Con un 10+, infliggi i tuoi danni al nemico e eviti il suo attacco. A tua scelta, puoi scegliere di infliggere +1d6 danni e subire l'attacco. ✴Con un 7–9, infliggi i tuoi danni al nemico e il nemico fa un attacco contro di te.
 
 ---
 
 Le mosse sono regole che ti dicono quando entrano in gioco e che effetto hanno. Una mossa dipende da un'azione nella fiction e ha sempre un qualche effetto nella fiction. Per "nella fiction" s'intende che l'azione e l'effetto appartengono al mondo dei personaggi che stiamo descrivendo. Nella mossa sopra l'innesco è "quando attacchi un nemico in mischia". L'effetto è ciò che segue: devi tirare i dadi e in base al risultato possono accadere diversi effetti nella fiction.
 
-Quando un giocatore descrive il suo personaggio fare qualcosa che innescherebbe una mossa, la mossa si attiva e le sue regole vengono applicate. Se la mossa richiede un tiro, essa dirà che dadi tirare e come leggerne i risultati.
+Quando un giocatore descrive il suo personaggio fare qualcosa che innescherebbe una mossa, la mossa si attiva e le sue regole vengono applicate. Se la mossa richiede un tiro, il suo testo spiegherà che dadi tirare e come leggerne i risultati.
 
-Un personaggio non può fare un'azione nella fiction che innescherebbe una mossa senza che essa si inneschi. Per esempio, se Isaac dice al GM che il suo personaggio sfreccia di fianco a un orco inferocito e munito di ascia per dirigersi verso una porta, innesca la mossa *sfidare il pericolo* perché il suo innesco è "quando agisci nonostante una minaccia incombente". Isaac non può dire che il suo personaggio supera l'orco senza eseguire la mossa *sfidare il pericolo*, e non può eseguire la mossa *sfidare il pericolo* se non sussiste una minaccia incombente o una circostanza sventurata. Le mosse e la fiction procedono di pari passo.
+Un personaggio non può commettere un'azione nel *racconto* che innescherebbe una mossa senza che essa si inneschi. Per esempio, se Isaac dice al GM che il suo personaggio sfreccia di fianco a un orco inferocito e munito di ascia per dirigersi verso una porta, innesca la mossa *sfidare il pericolo* perché il suo innesco è «quando agisci nonostante una minaccia incombente». Isaac non può affermare che il suo personaggio supera l'orco senza eseguire la mossa <span class="dw-move">sfidare il pericolo</span>, e non può eseguire la mossa <span class="dw-move">sfidare il pericolo</span> se non sussiste una minaccia incombente o una circostanza sventurata. Le mosse e la fiction procedono di pari passo.
 
-Ciascuno al tavolo dovrebbe stare attento a quando si attivano le mosse. Se non è chiaro se una mossa sia stata innescata o meno, bisogna discuterne insieme per mettere in chiaro la situazione. Fai domande alle persone coinvolte finché tutti la vedono allo stesso modo, e poi tira i dadi, o non tirarli, a seconda della situazione.
+Ciascuno al tavolo dovrebbe prestare attenzione all'attivazione. Se non è chiaro se una mossa sia stata innescata o meno, bisogna discuterne insieme per mettere in chiaro la situazione. Fai domande alle persone coinvolte finché tutti non la vedono allo stesso modo, e poi tira i dadi, o non tirarli, a seconda della situazione.
 
-Anche i mostri del GM, i personaggi non giocanti e altre bestie assortite hanno delle mosse, ma funzionano in modo diverso.
+Anche i mostri, i personaggi non giocanti e le altre bestie assortite del GM hanno delle mosse, ma funzionano in modo diverso, spiegato nel capitolo «Il GM».
 
 ## Mosse e Dadi
 
-La maggior parte delle mosse include la frase "tira+x" dove "x" è uno dei tuoi modificatori di capacità (ad esempio COS). A meno che la mossa non dica diversamente, "tira" significa sempre che devi tirare due dadi a sei facce e sommi i loro risultati e il valore del modificatore. Alcune mosse ti faranno aggiungere un valore specifico invece di un modificatore di capacità.
+La maggior parte delle mosse include la frase «tira+x» dove 'x' è uno dei tuoi modificatori di attributo (ad esempio COS). A meno che la mossa non dica diversamente, «tira» significa sempre che devi tirare due dadi a sei facce, sommare i loro risultati, e aggiungere il modificatore. Alcune mosse ti chiederanno di aggiungere un valore specifico invece di un modificatore di attributo.
 
 > Sto facendo una mossa che mi chiede di tirare+FOR e il mio modificatore di FOR è +1. Ho tirato due dadi a sei facce e ho fatto uno e quattro. Il mio totale è sei.
 
-Il risultato è sempre in una di tre categorie. Un totale di 10 o più (scritto 10+) è il risultato migliore. Un totale di 7–9 è sempre un successo ma dovrai fare qualche compromesso o pagare un prezzo. Un 6 o meno significa guai, ma potrai segnare un punto esperienza.
+Il risultato è sempre in una di tre categorie. Un totale di 10 o più (scritto 10+) è il risultato migliore. Un totale di 7–9 è comunque un successo, ma dovrai fare qualche compromesso o pagare un prezzo. Un 6 o meno significa guai, ma otterrai un punto esperienza.
 
-I danni funzionano in modo diverso. Si usano dadi diversi a seconda di chi o cosa infligge i danni.
+I tiri per i danni funzionano in modo diverso: si usano dadi diversi a seconda di chi o cosa infligge i danni.
 
 ### I Tre Esiti
 
@@ -52,11 +53,11 @@ I danni funzionano in modo diverso. Si usano dadi diversi a seconda di chi o cos
 
 * **7–9**: Lo fai ma con imprevisti o un prezzo da pagare.
 
-* **6-**: Il GM dice ciò che succede e tu segni un PE.
+* **6-**: Il GM racconta le conseguenze e ottieni un PE.
 
 ## Mosse ed Equipaggiamento
 
-Il più importante ruolo dell'equipaggiamento di un personaggio è di aiutare a descrivere le mosse che fa. Un personaggio senza un qualche tipo di arma non attiverà la mossa *taglia e spacca* mentre combatte un drago, perché un pugno a mani nude non ha un grande effetto su scaglie spesse un centimetro. Non conta quindi al fine di attivare la mossa.
+Il più importante ruolo dell'equipaggiamento di un personaggio è di fornire dettagli e spunti per l'innesco e la descrizione delle mosse. Un personaggio senza un qualche tipo di arma non attiverà la mossa <span class="dw-move">taglia e spacca</span> mentre combatte un drago, perché un pugno a mani nude non ha un grande effetto su delle scaglie spesse un centimetro, e dunque non conta al fine di attivare la mossa.
 
 Allo stesso modo, l'equipaggiamento può evitare di farti attivare una mossa. Scalare uno strapiombo di ghiaccio solitamente richiede di *sfidare il pericolo*, ma con della buona attrezzatura da scalata potrebbe non sussistere la minaccia imminente o la circostanza sventurata che attiva la mossa.
 
@@ -80,7 +81,7 @@ Alcune mosse hanno degli effetti meccanici immediati, come infliggere danno o da
 
 **… Dicono «prendi +1 continuato».** Questo significa che aggiungi +1 ai tiri di tutte le mosse (non i tiri di danni). Il bonus può essere più grande di +1, o anche una penalità, ad esempio -1. Potrebbe esserci anche un prerequisito, come «prendi +1 continuato a *raffica*». Un bonus continuato specifica anche che cosa ne causa il termine, ad esempio «finché non sciogli l'incantesimo» o «finché non ti redimi agli occhi del tuo dio».
 
-**… Ti danno «riserva».** La riserva è una valuta che puoi spendere per fare delle scelte più tardi spendendola come descritto dalla mossa. La riserva è sempre relativa alla mossa che l'ha generata; ad esempio, non puoi spendere la riserva di *difendere* per *esperto di trappole* o viceversa.
+**… Ti danno «riserva».** La riserva è una valuta che puoi spendere per fare delle scelte successive all'attivazione della mossa spendendola come descritto. La riserva è sempre relativa alla mossa che l'ha generata; ad esempio, non puoi spendere la riserva di <span class="dw-move">difendere</span> per <span class="dw-move">esperto di trappole</span> o viceversa.
 
 **… Ti presentano una scelta.** La scelta che fai, come in tutti gli effetti delle mosse, detta anche ciò che accade nella fiction, in aggiunta ad eventuali effetti meccanici. Quando ottieni 10+ in *taglia e spacca*, la scelta che fai di infliggere più danni al costo di aprire le tue difese è esattamente quello che sta accadendo al tuo personaggio: è abbastanza in vantaggio da poter andare sul sicuro o tentare la sorte.
 
@@ -108,12 +109,14 @@ Se una mossa dice soltanto "infliggi danno" il personaggio tira i dadi di danno 
 
 I mostri tirano i danni come scritto nelle loro descrizioni. Questi danni vanno usati ogniqualvolta un mostro agisce direttamente per fare del male a qualcuno, anche se usa un metodo diverso dal normale attacco.
 
-Altre fonti di danno, come essere colpiti dalle macerie di una torre che crolla, o cadere in un fossato, sono lasciate al GM da valutare, basandosi su queste opzioni:
+Altre fonti di danno, come essere colpiti dalle macerie di una torre che crolla, o cadere in un fossato, sono lasciate al GM da valutare, basandosi su queste indicazioni:
 
 * Il peggio che può fare sono graffi e lividi: d4 danni
 * È probabile che faccia uscire del sangue, ma nulla di devastante: d6 danni
 * Potrebbe rompere qualche osso: d8 danni
 * Può uccidere una persona normale: d10 danni
+
+> **NdC**: Le uniche cose, da manuale, che possono fare un numero maggiore di danni sono i mostri (termine generico usato dal gioco per qualunque ostacolo attivo o sovrannaturale). Non c'è problema solitamente se il GM dichiara un numero grosso di danni senza avere un mostro pronto per l'occasione, basta che sia ben supportato da chiari elementi sovrannaturali del racconto. 
 
 Aggiungi l'etichetta *ignora armatura* se la fonte è molto grande o se si tratta di magia o veleno.
 
@@ -125,15 +128,17 @@ Spesso, la perdita di PF è solo parte dell'effetto. Se il danno è generico, co
 
 ### Danni da molteplici creature
 
-È coraggioso il mostro che va in battaglia da solo. La maggior parte delle creature combattono con qualcuno al loro fianco, e magari qualcun altro dietro la schiena, e anche un arciere a coprire la retroguardia. Ciò può fare in modo che più di un mostro alla volta debba infliggere i suoi danni.
+È coraggioso il mostro che va in battaglia da solo. La maggior parte delle creature combattono con qualcuno al loro fianco, e magari qualcun altro che gli copra le spalle, senza dimenticare l'arciere nella retroguardia. Può capitare che più di un mostro alla volta debba infliggere i suoi danni.
 
-Se molteplici creature attaccano allo stesso momento, tira i danni più elevati tra i loro e aggiungi +1 danno per ciascun mostro oltre il primo.
+Se piu di una creatura attacca nello stesso momento, tira i danni più alti tra i loro e aggiungi +1 danno per ciascun mostro oltre il primo.
 
 > Un orcantatore goblin (d10+1 danni *ignora armatura*) e tre goblin (d6 danni) tirano tutti insieme le loro armi — un globo magico di acido per l'orcantatore, lance per gli altri — contro Lux, mentre lei assalta la loro barricata. Tiro i danni più alti, ovvero d10+1 *ignora armatura*, e aggiungo +3 per ciascuno degli altri goblin. Dopo aver sommato tutto, dico a Lux che subisce 9 danni *ignora armatura* quando l'acido passa attraverso le fessure lasciate dai colpi di ascia.
 
 ### Danni da stordimento
 
-I danni da stordimento sono danni non letali. Un PG che subisce danni non letali deve*sfidare il pericolo* per fare qualunque cosa, dove il pericolo è "sei stordito". L'effetto dura fintanto che ha senso nella fiction: sei stordito finché non hai la possibilità di schiarirti le idee o di sistemare qualunque cosa ti renda stordito. Un personaggio del GM che subisce danni da stordimento non li sottrae ai PF ma agirà di conseguenza, vacillando per qualche secondo, barcollando alla cieca, etc.
+I danni da stordimento sono danni non letali. Un PG che subisce danni non letali deve *sfidare il pericolo* per fare qualunque cosa, dove il pericolo è «sei stordito». L'effetto dura fintanto che ha senso nella fiction: sei stordito finché non hai la possibilità di schiarirti le idee o di sistemare qualunque cosa ti renda stordito. Un personaggio del GM che subisce danni da stordimento non li sottrae ai PF ma agirà di conseguenza, vacillando per qualche secondo, barcollando alla cieca, etc.
+
+> **NdC**: Il manuale è inutilmente vago su questo punto. Il pericolo non è tanto lo stordimento in se quanto la possibilità di esporsi a un pericolo maggiore mentre si è storditi. In situazioni che non sono pericolose, essere storditi non ha effetto, per semplice buonsenso.
 
 ### Aggiungere e sottrarre danni
 
