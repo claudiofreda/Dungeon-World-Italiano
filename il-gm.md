@@ -5,7 +5,7 @@ layout: default
 
 <div class="alert alert-info">
     <button type="button" class="close" data-dismiss="alert">×</button>
-    Questo capitolo è anche disponibile in <a style="font-weight:bold" href="/pdf/gm.pdf">comoda scheda riassuntiva da stampare!</a>
+    Questo capitolo è anche disponibile in <a style="font-weight:bold" href="http://bit.ly/1hMeblk">comoda scheda riassuntiva da stampare!</a>
 </div>
 
 Ci sono molti e diversi generi di fantasy, ognuno con il suo stile e i suoi consigli per fare il GM. Dungeon World è progettato, in particolare, per uno di questi stili: un mondo di elfi, orchi, draghi e magia dove oscuri pericoli si mescolano con avventure scanzonate. Le regole di questo capitolo ti aiuteranno a dirigere il gioco in questo stile.
@@ -163,15 +163,15 @@ Fai una mossa:
 * Quando i giocatori ti danno un'opportunità d'oro
 * Quando tirano un 6-
 
-Solitamente, quando i giocatori ti guardano per sapere cosa succede fai una mossa leggera, in caso contrario fai una mossa pesante.
+Solitamente, quando i giocatori ti guardano per sapere cosa succede fai una mossa morbida, in caso contrario fai una mossa dura.
 
-Una mossa leggera è una mossa che non ha conseguenze immediate e irreversibili. Solitamente significa che è qualcosa di non completamente negativo, ad esempio mostrare ulteriori ricchezze da conquistare oltrepassando un golem (offrire un'opportunità con un costo). Può anche significare che è qualcosa di negativo, ma hanno il tempo di evitarlo, ad esempio far scagliare una raffica di freccie a dei goblin arcieri (mostra i segni di una minaccia incombente) con la possibilità di schivarle e allontanarsi dal pericolo.
+Una mossa morbida è una mossa che non ha conseguenze immediate e irreversibili. Solitamente significa che è qualcosa di non completamente negativo, ad esempio mostrare ulteriori ricchezze da conquistare oltrepassando un golem (offrire un'opportunità con un costo). Può anche significare che è qualcosa di negativo, ma hanno il tempo di evitarlo, ad esempio far scagliare una raffica di freccie a dei goblin arcieri (mostra i segni di una minaccia incombente) con la possibilità di schivarle e allontanarsi dal pericolo.
 
-Ignorare una mossa leggera diventa un'opportunità d'oro per fare una mossa pesante. Se i giocatori non fanno nulla mentre il nugolo di frecce li raggiunge, è un'opportunità d'oro per usare la mossa *infliggi danno*.
+Ignorare una mossa morbida diventa un'opportunità d'oro per fare una mossa dura. Se i giocatori non fanno nulla mentre il nugolo di frecce li raggiunge, è un'opportunità d'oro per usare la mossa *infliggi danno*.
 
-Le mosse pesanti, al contrario, hanno delle conseguenze immediate. Infliggere danni è quasi sempre una mossa pesante, perché si tratta una perdita di PF che non potrà essere colmata senza intervento da parte dei giocatori.
+Le mosse dure, al contrario, hanno delle conseguenze immediate. Infliggere danni è quasi sempre una mossa dura, perché si tratta una perdita di PF che non potrà essere colmata senza intervento da parte dei giocatori.
 
-Quando hai la possibilità di fare una mossa pesante puoi fare una mossa leggera al suo posto, se è più appropriata alla situazione. A volte le cose si risolvono per il meglio.
+Quando hai la possibilità di fare una mossa dura puoi fare una mossa morbida al suo posto, se è più appropriata alla situazione. A volte le cose si risolvono per il meglio.
 
 ## Scegliere una Mossa
 
@@ -325,7 +325,7 @@ Assicurati che ciascuno abbia la possibilità di agire, e di sapere dove ogni gi
 
 Puoi preparare le trappole in anticipo, o puoi improvvisarle basandoti sulle tue mosse. Se niente ha specificato che il luogo è sicuro, le trappole sono sempre un'opzione.
 
-I giocatori possono trovare le trappole con piani ingegnosi, *percependo trappole*, o *discernendo **realtà*. Se un personaggio descrive un'azione che non attiva una mossa, ma l'azione svelerebbe una trappola, non nasconderglielo. Le trappole non hanno il permesso di infrangere le regole.
+I giocatori possono trovare le trappole con piani ingegnosi, *percependo trappole*, o *discernendo realtà*. Se un personaggio descrive un'azione che non attiva una mossa, ma l'azione svelerebbe una trappola, non nasconderglielo. Le trappole non hanno il permesso di infrangere le regole.
 
 ### Persone
 

@@ -5,13 +5,8 @@ layout: default
 
 <div class="alert alert-info">
     <button type="button" class="close" data-dismiss="alert">×</button>
-    <strong>25 ottobre 2013:</strong> Una nuova classe tradotta in Italiano: <strong><a href="/classi/spadaccino">lo Spadaccino</a></strong> di Jacob Randolph.
-</div>
->
-<div class="alert alert-info">
-    <button type="button" class="close" data-dismiss="alert">×</button>
-    <strong>22 ottobre 2013:</strong> Una nuova classe tradotta in Italiano: <strong><a href="/classi/monaco">il Monaco</a></strong> di James Mendez Hodes.
-</div>
+    <strong>20 Luglio 2014:</strong> Nuovi 4 capitoli di mostri, sempre grazie ai contributi dei <a href="/crediti">dei nostri traduttori</a>. Ne mancano soltanto due!
+</div> 
 
 Benvenuti alla **traduzione italiana di [Dungeon World][dw]**, il gioco di ruolo di [Adam Koebel][adam] e [Sage Latorra][sage], vincitore del premio **Best Rules** agli ENnies 2013! Dungeon World è derivato dal Mondo dell'Apocalisse di Vincent Baker: Adam e Sage hanno preso il sistema di Baker e l'hanno adattato, superando l'originale in popolarità e successo, a un'estetica fantasy simile a quella proposta dai più popolari giochi di ruolo in commercio.
 
@@ -31,7 +26,7 @@ Considero questo sito una risorsa pubblica, e il testo completo è disponibile s
 
 # Indice Generale
 
-La traduzione è **quasi completa**, mancano solo i capitoli relativi alle ambientazioni mostruose.
+La traduzione è **quasi completa**, mancano solo due capitoli relativi alle ambientazioni mostruose (Genti del Reame e Profondità della Terra).
 
 Oltre alle schede delle classi, sono disponibili le schede delle **[mosse base](pdf/mosse.pdf)** e del **[riassunto del gm](pdf/gm.pdf)**, adesso aggiornate alla nostra traduzione!
 
@@ -49,15 +44,15 @@ Sono stati tradotti i seguenti capitoli:
 	</ul>
 	<li>Parte II, <b>Le Classi</b></li>    
     <ul>
-		<li><a href="/barbaro">Il Barbaro <span class="label label-default">Completato!</span></a></li>	
-        <li><a href="/bardo">Il Bardo <span class="label label-info">Nuovo!</span></a></li>	
-    	<li><a href="/chierico">Il Chierico <span class="label label-info">Nuovo!</span></a></li>	
-    	<li><a href="/druido">Il Druido <span class="label label-info">Nuovo!</span></a></li>	
-    	<li><a href="/guerriero">Il Guerriero <span class="label label-default">Completato!</span></a></li>	
-    	<li><a href="/ladro">Il Ladro <span class="label label-default">Completato!</span></a></li>	
-    	<li><a href="/mago">Il Mago <span class="label label-info">Nuovo!</span></a></li>	
-    	<li><a href="/paladino">Il Paladino <span class="label label-info">Nuovo!</span></a></li>	
-    	<li><a href="/ramingo">Il Ramingo <span class="label label-default">Completato!</span></a></li>	
+		<li><a href="/barbaro">Il Barbaro</a></li>	
+        <li><a href="/bardo">Il Bardo</a></li>	
+    	<li><a href="/chierico">Il Chierico</a></li>	
+    	<li><a href="/druido">Il Druido</a></li>	
+    	<li><a href="/guerriero">Il Guerriero</a></li>	
+    	<li><a href="/ladro">Il Ladro</a></li>	
+    	<li><a href="/mago">Il Mago</a></li>	
+    	<li><a href="/paladino">Il Paladino</a></li>	
+    	<li><a href="/ramingo">Il Ramingo</a></li>	
     </ul>
 	<li>Parte III, <b>Fare il GM</b></li>
 	<ul>
@@ -69,6 +64,13 @@ Sono stati tradotti i seguenti capitoli:
     <li>Parte IV, <b>I Mostri</b></li>
 	<ul>
 		<li><a href="mostri">Panoramica</a></li>
+		<li><a href="mostri-caverne">Abitanti delle Caverne</a></li>
+		<li><a href="mostri-paludi">Abitanti delle Paludi</a></li>
+		<li><a href="mostri-esperimenti">Esperimenti Perversi</a></li>
+		<li><a href="mostri-foreste">Foreste Oscure</a></li>
+		<li><a href="mostri-non-morti">Legioni dei Non Morti</a></li>
+		<li><a href="mostri-orde">Orde Fameliche</a></li>
+		<li><a href="mostri-piani">Esperimenti Perversi</a></li>
 	</ul>
 </ul>
 
