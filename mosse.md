@@ -22,27 +22,29 @@ Ciascuna mossa è descritta con il suo nome e le regole della mossa. Alcune sono
 
 ## Gettarsi nella Mischia
 
+> **NdT**: Originariamente questa mossa era stata tradotta con il neologismo «Taglia e Spacca». Nell'edizione di Narrattiva, e nel materiale che ad essa fa riferimento, questa mossa è invece chiamata «Assalire». «Taglia e Spacca» era appropriato, ma si è preferito scegliere infine una traduzione che comunicasse effettivamente lo scopo della mossa: una mischia fragorosa e confusa.
+{:.nota-traduttore}
+
 Quando **attacchi un nemico in mischia** in grado di rispondere al tuo attacco, tira+FOR. ✴Con un 10+, infliggi i tuoi danni al nemico ed eviti il suo attacco. A tua scelta, puoi decidere di infliggere +1d6 danni ed esporti all'attacco del nemico. ✴Con un 7&ndash;9, infliggi i tuoi danni al nemico, ma il nemico porta a compimento il suo attacco. 
+
+> **NdT**: Dato che causa spesso problemi di comprensione, il testo riassuntivo di questa mossa è stato chiarificato rispetto all'edizione in lingua inglese. Il nuovo testo chiarificato prende in considerazione quanto scritto dagli autori nella descrizione completa qua sotto. Il funzionamento effettivo della mossa è lo stesso.
+{:.nota-traduttore}
 
 ---
 
-> *NdT*: Dato che causa spesso problemi di comprensione, il testo riassuntivo di questa mossa è stato chiarificato rispetto all'edizione in lingua inglese. Il nuovo testo chiarificato prende in considerazione quanto scritto dagli autori nella descrizione completa qua sotto. Il funzionamento effettivo della mossa è lo stesso.
->
-> Originariamente questa mossa era stata tradotta con il neologismo «Taglia e Spacca». Nell'edizione di Narrattiva, e nel materiale che ad essa fa riferimento, questa mossa è invece chiamata «Assalire».
->
-> «Taglia e Spacca» era appropriato, ma si è preferito scegliere infine una traduzione che comunicasse effettivamente lo scopo della mossa: una mischia fragorosa e confusa. «Assalire» è piuttosto fuorviante, invece, perché sembra indicare uno scontro dove uno solo dei contendenti attacca: proprio il contrario di quello che questa mossa rappresenta.
+_Gettarsi nella Mischia_{:.mossa}, in parole povere, serve quando si attacca un nemico pronto a difendersi. Se il nemico non è pronto a difendersi dal tuo attacco — non sa che sei lì o è immobilizzato e indifeso — allora non è _Gettarsi nella Mischia_{:.mossa}. Semplicemente infliggi i tuoi danni, oppure lo uccidi sul colpo, a seconda della situazione. È roba forte.
 
-*Gettarsi nella Mischia*, in parole povere, serve quando si attacca un nemico pronto a difendersi. Se il nemico non è pronto a difendersi dal tuo attacco — non sa che sei lì o è immobilizzato e indifeso — allora non è *Gettarsi nella Mischia*. Semplicemente infliggi i tuoi danni, oppure lo uccidi sul colpo, a seconda della situazione. È roba forte.
-
-> *NdC*: Ricordiamo al lettore di prendere in considerazione la portata delle armi (cfr. capitolo Equipaggiamento) ed eventuali altri dettagli del racconto per determinare se *Gettarsi nella Mischia** effettivamente si attiva. Non tutte le armi e non tutti i combattenti sono uguali, e questa mossa si applica solo in condizioni di scontro più o meno equilibrate, ovvero dove entrambi rischiano di farsi del male. Una creatura più minuta del PG potrebbe semplicemente cercare una posizione vantaggiosa per attaccare o un obiettivo secondario, obbligando il giocatore a far scattare **Sfidare il Pericolo** per impedirglielo.
+> **NdC**: Ricordiamo al lettore di prendere in considerazione la portata delle armi (cfr. capitolo Equipaggiamento) ed eventuali altri dettagli del racconto per determinare se _Gettarsi nella Mischia_{:.mossa} effettivamente si attiva. Non tutte le armi e non tutti i combattenti sono uguali, e questa mossa si applica solo in condizioni di scontro più o meno equilibrate, ovvero dove entrambi rischiano di farsi del male. Una creatura più minuta del PG potrebbe semplicemente cercare una posizione vantaggiosa per attaccare o un obiettivo secondario, obbligando il giocatore a far scattare **Sfidare il Pericolo** per impedirglielo.
+{:.nota-curatore}
 
 Il contrattacco del nemico può essere qualunque mossa del GM fatta direttamente attraverso quella creatura. Un goblin potrebbe semplicemente contrattaccarti o infilarti un ago avvelenato nelle vene. La vita è dura, non credi?
 
-> *NdC*: Ricordiamo al lettore che il GM non tira dadi in Dungeon World, e che quindi ciò che qui gli autori chiamano «il contrattacco» è semplicemente una conseguenza negativa scelta dal GM legata al combattimento. Nel caso di un mostro, si prende spunto dalla sua lista di mosse.
+> **NdC**: Ricordiamo al lettore che il GM non tira dadi in Dungeon World, e che quindi ciò che qui gli autori chiamano «il contrattacco» è semplicemente una conseguenza negativa scelta dal GM legata al combattimento. Nel caso di un mostro, si prende spunto dalla sua lista di mosse.
+{:.nota-curatore}
 
-Tieni presente che un "attacco" è qualunque azione intrapresa da un giocatore che abbia la possibilità di arrecare danno a qualcuno. Attaccare un drago con scaglie cariche di energia magica e spesse un dito con una spada qualunque è come colpire un carro armato con una mannaia: semplicemente, non ha la possibilità di arrecare alcun danno, e *Gettarsi nella Mischia* non si attiva. Ovviamente, le circostanze possono cambiare: se sei in una posizione da dove puoi infilzare il drago nella sua pancia soffice (buona fortuna ad arrivare lì sotto) potrebbe fare male, quindi conta come attacco.
+Tieni presente che un "attacco" è qualunque azione intrapresa da un giocatore che abbia la possibilità di arrecare danno a qualcuno. Attaccare un drago con scaglie cariche di energia magica e spesse un dito con una spada qualunque è come colpire un carro armato con una mannaia: semplicemente, non ha la possibilità di arrecare alcun danno, e _Gettarsi nella Mischia_{:.mossa} non si attiva. Ovviamente, le circostanze possono cambiare: se sei in una posizione da dove puoi infilzare il drago nella sua pancia soffice (buona fortuna ad arrivare lì sotto) potrebbe fare male, quindi conta come attacco.
 
-Se l'azione che attiva *Gettarsi nella Mischia* può ragionevolmente fare del male a più di un bersaglio, tira i danni una sola volta e applicali a ciascun bersaglio (ciascuno applica la propria armatura).
+Se l'azione che attiva _Gettarsi nella Mischia_{:.mossa} può ragionevolmente fare del male a più di un bersaglio, tira i danni una sola volta e applicali a ciascun bersaglio (ciascuno applica la propria armatura).
 
 Alcuni attacchi potrebbero avere degli effetti aggiuntivi a seconda dell'azione nel *racconto* che li ha innescati, le circostanze, o le armi utilizzate. Un attacco potrebbe mandare qualcuno al tappeto, immobilizzarlo, o lasciare una grande macchia di sangue.
 
@@ -50,7 +52,7 @@ Alcuni attacchi potrebbero avere degli effetti aggiuntivi a seconda dell'azione 
 >
 > **Jarl**: Ne ho avuto abbastanza! Pesto il goblin più vicino con il mio martello.
 >
-> **GM**: Va bene. Questo è sicuramente un combattimento, quindi stai attivando *Gettarsi nella Mischia*. Tira+FOR.
+> **GM**: Va bene. Questo è sicuramente un combattimento, quindi stai attivando _Gettarsi nella Mischia_{:.mossa}. Tira+FOR.
 >
 > **Jarl**: Ho fatto 11. Dice qua che posso scegliere se subire il loro attacco, e la paura è per i deboli. Venite a me, goblin!
 >
@@ -74,7 +76,7 @@ Alcuni attacchi potrebbero avere degli effetti aggiuntivi a seconda dell'azione 
 >
 > **Bartleby**: Non ti darò la possibilità di tradirmi ancora, Finbar! Lo attraverso con la spada.
 >
-> **GM**: Bene, è *Gettarsi nella Mischia* però. Tira+FOR.
+> **GM**: Bene, è _Gettarsi nella Mischia_{:.mossa} però. Tira+FOR.
 >
 > **Bartleby**: Se lo dici tu ... ho fatto 7.
 >
@@ -82,11 +84,12 @@ Alcuni attacchi potrebbero avere degli effetti aggiuntivi a seconda dell'azione 
 
 ## Raffica
 
-> *NdT*: Nell'edizione di Narrattiva, e nel materiale che ad essa fa riferimento, questa mossa è chiamata «Tirare».
+> **NdT**: Nell'edizione di Narrattiva, e nel materiale che ad essa fa riferimento, questa mossa è chiamata «Tirare».
 >
 > A differenza di come spesso interpretato, la mossa fa riferimento a un numero imprecisato di colpi.
+{:.nota-traduttore}
 
-Quando **prendi la mira per colpire un nemico a distanza**, tira+DES. ✴Con un 10+, è un colpo sicuro&mdash;infliggi i tuoi danni. ✴Con un 7&ndash;9, scegli un'opzione (infliggi comunque i danni qualunque opzione tu scelga):
+Quando **prendi la mira per colpire un nemico a distanza**, tira+DES. &#x2734;Con un 10+, è un colpo sicuro&mdash;infliggi i tuoi danni. &#x2734;Con un 7&ndash;9, scegli un'opzione (infliggi comunque i danni qualunque opzione tu scelga):
 
 * Devi spostarti per trovare la giusta linea di tiro. Ti esponi a un pericolo descritto dal GM. 
 * Devi accontentarti: -1d6 danni.
@@ -94,15 +97,15 @@ Quando **prendi la mira per colpire un nemico a distanza**, tira+DES. ✴Con un 
 
 ---
 
-Per *raffica* s'intende nella sua completezza l'atto di estrarre, mirare e tirare con un'arma a distanza o di lanciare un'arma da lancio. Il vantaggio nell'usare un'arma a distanza rispetto a un'arma da mischia è che l'attaccante ha meno possibilità di subire un attacco a sua volta. Ovviamente, deve preoccuparsi delle munizioni e di avere la linea di tiro libera.
+Per _Raffica_{:.mossa} s'intende nella sua completezza l'atto di estrarre, mirare e tirare con un'arma a distanza o di lanciare un'arma da lancio. Il vantaggio nell'usare un'arma a distanza rispetto a un'arma da mischia è che l'attaccante ha meno possibilità di subire un attacco a sua volta. Ovviamente, deve preoccuparsi delle munizioni e di avere la linea di tiro libera.
 
-Sul 7–9, intendi "pericolo" con un senso ampio. Forse è una perdita d'equilibrio, o forse significa finire sulla traiettoria di una lama, o ancora rivelare il tuo bel nascondiglio da cecchino ai nemici. Qualunque cosa sia, è incombente ed è sempre qualcosa che fa in modo che il GM dica "Che cosa fai?". Molto spesso, il pericolo sarà qualcosa che ti obbligherà a dedicare la tua attenzione a evitarlo o a *sfidare il pericolo*.
+Sul 7–9, intendi "pericolo" con un senso ampio. Forse è una perdita d'equilibrio, o forse significa finire sulla traiettoria di una lama, o ancora rivelare il tuo bel nascondiglio da cecchino ai nemici. Qualunque cosa sia, è incombente ed è sempre qualcosa che fa in modo che il GM dica "Che cosa fai?". Molto spesso, il pericolo sarà qualcosa che ti obbligherà a dedicare la tua attenzione a evitarlo o a _Sfidare il Pericolo_{:.mossa}.
 
 Se stai lanciando qualcosa che non ha munizioni (ad esempio, se hai una mossa che ti permette di lanciare lo scudo) non puoi scegliere di spendere un punto munizioni. Scegli una delle altre due opzioni.
 
 > **Aranwe**: Bene, sono bloccata qua sul pavimento della sala consacrata e quell'orco cavaocchi sta recitando il rituale sul piedistallo? Siccome Thelian si sta occupando del resto della marmaglia, miro col mio arco e provo a colpire l'orco ritualista.
 >
-> **GM**: Ottima scelta, mi sembra una *raffica*.
+> **GM**: Ottima scelta, mi sembra una _Raffica_{:.mossa}.
 >
 > **Aranwe**: Diamine, ho fatto 8. Be, ho poche frecce e ancora meno PF. Meglio accontentarsi. Tiro i miei danni, poi sottraggo il risultato di 1d6, giusto? Ho fatto 3. Basta almeno a distrarlo?
 >
@@ -137,15 +140,15 @@ Quando **agisci nonostante una minaccia incombente** o **ti esponi al pericolo**
 
 ---
 
-*Sfidi il pericolo* quando fai qualcosa nonostante un pericolo imminente. Potrebbe sembrare che questa mossa sia applicabile a qualunque situazione. È così! *Sfidare il pericolo* è per quei momenti in cui sei sicuro di dover tirare qualcosa ma nessun'altra mossa è applicabile.
+_Sfidi il Pericolo_{:.mossa} quando fai qualcosa nonostante un pericolo imminente. Potrebbe sembrare che questa mossa sia applicabile a qualunque situazione. È così! _Sfidare il Pericolo_{:.mossa} è per quei momenti in cui sei sicuro di dover tirare qualcosa ma nessun'altra mossa è applicabile.
 
-*Sfidare il pericolo* si usa anche quando fai un'altra mossa nonostante un pericolo non previsto da quella mossa. Ad esempio, *taglia e spacca* presume che ci sia uno scambio di colpi in battaglia — non serve *sfidare il pericolo* del mostro che stai combattendo a meno che non ci sia un pericolo particolare che non è parte del tuo normale attacco. Se invece stai cercando di attaccare nonostante gli spuntoni che vengono sparati da trappole nascoste nel muro, è un pericolo completamente diverso.
+_Sfidare il Pericolo_{:.mossa} si usa anche quando fai un'altra mossa nonostante un pericolo non previsto da quella mossa. Ad esempio, _Gettarsi nella Mischia_{:.mossa} presume che ci sia uno scambio di colpi in battaglia — non serve *sfidare il pericolo* del mostro che stai combattendo a meno che non ci sia un pericolo particolare che non è parte del tuo normale attacco. Se invece stai cercando di attaccare nonostante gli spuntoni che vengono sparati da trappole nascoste nel muro, è un pericolo completamente diverso.
 
 Il pericolo, in questo caso, è qualunque cosa che richieda resistenza, concentrazione o compostezza. Questa mossa verrà solitamente messa il gioco dal GM. Ti dirà qual'è il pericolo mentre fai la tua mossa. Sarà qualcosa come "Devi sfidare il pericolo prima. Il pericolo è il pavimento ghiacciato e scosceso su cui stai correndo. Se riesci a mantenere l'equilibrio, puoi arrivare alla porta prima che gli incantesimi del negromante ti colpiscano".
 
-> *NdC*: Mi trovo a dover sconsigliare l'approccio proposto dagli autori: Il GM non dovrebbe *mai* suggerire la mossa da attivare. Il GM dovrebbe semplicemente descrivere il pericolo, il giocatore descrivere quel che fa il suo PG, e poi si dovrebbe individuare insieme la mossa appropriata: essa sarà molto probabilmente *Sfidare il Pericolo*, ma il giocatore potrebbe attivare un'altra mossa o inventarsi un modo di evitare completamente il pericolo senza rischio per sé stesso e non attivare alcuna mossa. Fare come suggeriscono gli autori provoca solamente una risposta noiosa del tipo «ok, sfido il pericolo», che poi costringe il GM a chiedere una specifica.
+> *NdC*: Mi trovo a dover sconsigliare l'approccio proposto dagli autori: Il GM non dovrebbe *mai* suggerire la mossa da attivare. Il GM dovrebbe semplicemente descrivere il pericolo, il giocatore descrivere quel che fa il suo PG, e poi si dovrebbe individuare insieme la mossa appropriata: essa sarà molto probabilmente _Sfidare il Pericolo_{:.mossa}, ma il giocatore potrebbe attivare un'altra mossa o inventarsi un modo di evitare completamente il pericolo senza rischio per sé stesso e non attivare alcuna mossa. Fare come suggeriscono gli autori provoca solamente una risposta noiosa del tipo «ok, sfido il pericolo», che poi costringe il GM a chiedere una specifica.
 
-Quale sia la capacità da applicare dipende dalle azioni che fai, e le tue azioni devono innescare la mossa. Ciò significa che non puoi *sfidare il pericolo* del pavimento ghiacciato e scosceso con un sorriso affascinante solo per usare CAR, perché sorridere con fascino al pavimento non gli fa proprio niente. D'altro canto, fare un grande salto oltre il ghiaccio sarebbe FOR, misurare i passi con attenzione sarebbe DES, e così via. Fai la mossa per scoprire i risultati.
+Quale sia la capacità da applicare dipende dalle azioni che fai, e le tue azioni devono innescare la mossa. Ciò significa che non puoi _Sfidare il Pericolo_{:.mossa} del pavimento ghiacciato e scosceso con un sorriso affascinante solo per usare CAR, perché sorridere con fascino al pavimento non gli fa proprio niente. D'altro canto, fare un grande salto oltre il ghiaccio sarebbe FOR, misurare i passi con attenzione sarebbe DES, e così via. Fai la mossa per scoprire i risultati.
 
 > **GM**: Emory, mentre scali il lato del burrone scorgi un cultista su una piattaforma vicina che lancia un incantesimo congelante e ricopre la scarpata di ghiaccio! Se vuoi continuare a scalare, dovrai *sfidare il pericolo* o cadrai.
 >
@@ -154,28 +157,31 @@ Quale sia la capacità da applicare dipende dalle azioni che fai, e le tue azion
 > **GM**: Mm, bene, tipo forte, penso che l’unico modo per fare attrito sia infilare il tuo pugnale nel muro per tirarti su di quell’ultimo metro. Resterà conficcato là dentro finché non hai tempo di tirarlo fuori, e c’è un incantatore arrabbiato vicino a te.
 >
 > **Emory**: Posso sempre comprarmi un nuovo pugnale quando torno a casa. È tempo di dar fine a questa scalata e a quel cultista.
+{:.esempio}
 
 <!-- separatore -->
 
 > **GM**: Il massiccio braccio dell’athach vola verso di te, con le sue dita nodose che stringono un ramo spezzato. Cosa fai, Valeria?
 >
-> **Valeria**: Vuole combattere, eh? E combattiamo. *Taglio e spacco*, fendendo la mia spada verso le sue gambe.
+> **Valeria**: Vuole combattere, eh? E combattiamo. Mi _Getto nella Mischia_{:.mossa}, fendendo la mia spada verso le sue gambe.
 >
-> **GM**: Aspetta un attimo, campione. Sei in svantaggio rispetto a lui. Puoi buttarti nella mischia ma dovrai prenderti quella clava in faccia a meno che tu non *sfidi il pericolo* prima.
+> **GM**: Aspetta un attimo, campione. Sei in svantaggio rispetto a lui. Puoi buttarti nella mischia ma dovrai prenderti quella clava in faccia a meno che tu non _Sfidi il Pericolo_{:.mossa} prima.
 >
-> **Valeria**: Pfff, non è al livello di Valeria la Rossa! Mi sposto di lato come una foglia nel vento, e poi comincio a *tagliare e spaccare*.
+> **Valeria**: Pfff, non è al livello di Valeria la Rossa! Mi sposto di lato come una foglia nel vento, e poi mi _Getto nella Mischia_{:.mossa}.
 >
-> **GM**: *sfida il pericolo* con DES, per favore e grazie.
+> **GM**: _Sfida il Pericolo_{:.mossa} con DES, per favore e grazie.
+{:.esempio}
 
 <!-- separatore -->
 
-> **Octavia**: Ne ho abbastanza di questo ogre, adesso faccio cadere lo scudo e lo attacco con il martello impugnato con entrambe le mani. *Taglia e spacca*, giusto?
+> **Octavia**: Ne ho abbastanza di questo ogre, adesso faccio cadere lo scudo e lo attacco con il martello impugnato con entrambe le mani. _Gettarsi nella Mischia_{:.mossa}, giusto?
 >
 > **GM**: Fai cadere lo scudo? È una pessima idea: adesso devi sfidare il pericolo perché l’ogre sta per colpirti.
 >
-> **Octavia**: Sei sicuro? Non è a questo che serve *taglia e spacca*, per scambiarsi i colpi?
+> **Octavia**: Sei sicuro? Non è a questo che serve _Gettarsi nella Mischia_{:.mossa}, per scambiarsi i colpi?
 >
-> **GM**: Certo, scusami. Ho bisogno di un’altra tazza di caffè — *taglia e spacca* sia, fai la tua mossa.
+> **GM**: Certo, scusami. Ho bisogno di un’altra tazza di caffè — _Gettarsi nella Mischia_{:.mossa} sia, fai la tua mossa.
+{:.esempio}
 
 ## Difendere
 
@@ -188,7 +194,7 @@ Quando **difendi dal pericolo una persona, un oggetto o un luogo**, tira+COS. �
 
 ---
 
-Difendere qualcosa significa starci vicino e concentrarsi sull'impedire che essa sia attaccata o che chiunque vi si avvicini. Quando ti allontani o smetti di dedicare la tua attenzione agli attacchi che arrivano, perdi tutta la tua presa.
+_Difendere_{:.mossa} qualcosa significa starci vicino e concentrarsi sull'impedire che essa sia attaccata o che chiunque vi si avvicini. Quando ti allontani o smetti di dedicare la tua attenzione agli attacchi che arrivano, perdi tutta la tua presa.
 
 Puoi spendere la presa solo quando qualcuno fa un attacco su di te o sulla cosa che stai difendendo. Le scelte che puoi fare dipendono dall'attaccante e dal tipo di attacco. In particolare, non puoi infliggere danni a un attaccante che non puoi raggiungere con la tua arma.
 
@@ -207,11 +213,13 @@ Difendere te stesso è sempre un'opzione. Significa rinunciare a fare attacchi p
 > **Lux**: Faccio 11, prendo tre, giusto?
 >
 > **Avon**: Meglio che ti prepari a usarla, Lux. Ho fatto 8 sul mio tiro di *lanciare incantesimi* — scelgo di mettermi in pericolo.
+>
 > **GM**: Ovviamente lo fai. Gli zombie sono attratti dal disturbo che sentono nella magia, e barcollano verso di te per attaccarti. Improvvisamente, sei circondato, sono ovunque! Che cosa fai?
 >
 > **Avon**: Squittisco con impotenza?
 >
 > **Lux**: Arrivo io. Spendo presa 1 per redirigere l’attacco verso me: spingo Avon di lato e lascio erompere la furia completa della mia bontà, facendo infuriare i non-morti. Per essere sicura, faccio un movimento ad arco col mio martello e infliggo i miei danni. Già che ci sono, consumo tutta la presa e riduco i danni a metà. La mia dea ci protegge!
+{:.esempio}
 
 <!-- separatore --> 
 
@@ -228,11 +236,12 @@ Difendere te stesso è sempre un'opzione. Significa rinunciare a fare attacchi p
 > **GM**: Voi due siete separati, adesso. Come fai a difenderla se sei lontano 20 metri? Hai perso la presa quando hai attaccato il coccodrillo, amico.
 >
 > **Adrian**: Hai ragione, non sono proprio “rimasto a difendere” alla fine. Fa niente, sei da sola, Durga!
-
+{:.esempio}
 
 ## Declamare Conoscenze
 
-> *NdT*: Nell'edizione di Narrattiva, e nel materiale che ad essa fa riferimento, questa mossa è chiamata «Rivelare Conoscenze»
+> **NdT**: Nell'edizione di Narrattiva, e nel materiale che ad essa fa riferimento, questa mossa è chiamata «Rivelare Conoscenze»
+{:.nota-traduttore}
 
 Quando **consulti la tua conoscenza accumulata a proposito di qualcosa**, tira+INT. ✴Con un 10+, il GM ti dirà qualcosa di interessante e utile di un argomento relativo alla tua situazione. ✴Con un 7–9 il GM ti dirà qualcosa di interessante — sta a te renderlo utile. Il GM potrebbe chiederti come fai a saperlo. Raccontagli la verità, adesso.
 
@@ -259,6 +268,7 @@ Nel caso non fosse chiaro, le risposte sono sempre vere, anche se il GM le ha do
 > **GM**: Be’, ovviamente hai sentito parlare di queste cose — il nome ti sfugge ma ricordi con certezza il disegno di una creatura come questa. Era in un corridoio, che faceva la guardia a qualcosa. Sai che c’è un trucco per far sì che ti lasci passare, ma non te lo ricordi bene. Perché no?
 >
 > **Fenfaril**: Ovviamente avevo i postumi da sbornia quel giorno. Ero un pessimo studente. Un trucco, dici? Mmm…
+{:.esempio}
 
 <!-- separatore --> 
 
@@ -271,10 +281,12 @@ Nel caso non fosse chiaro, le risposte sono sempre vere, anche se il GM le ha do
 > **GM**: Certo, ovviamente. Be’, riconosci alcuni glifi in particolare. Sono di origine efreet, segni di un incantesimo di fuoco, ma è diverso, una specie di magia di trasmutazione. Scommetto che se lanci un incantesimo attraverso il teschio, lo trasformerà in un incantesimo di fuoco.
 >
 > **Vitus**: Dardi incantati di fuoco, urrà!
+{:.esempio}
 
-## Discernere la Realtà[^percepire]
+## Discernere la Realtà
 
-[^percepire]: *NdT*: In altre traduzioni questa mossa è chiamata «Percepire la Realtà»
+> **NdT**: Nell'edizione di Narrattiva, e nel materiale che ad essa fa riferimento, questa mossa è chiamata «Percepire la Realtà»
+{:.nota-traduttore}
 
 Quando **studi attentamente una situazione o una persona**, tira+SAG. ✴Con un 10+, fai al GM tre domande dalla lista sotto. ✴Con un 7–9, fai una domanda.
 

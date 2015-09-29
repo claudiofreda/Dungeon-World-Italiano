@@ -27,65 +27,76 @@ Quando **attacchi un nemico in mischia**, tira+FOR. ✴Con un 10+, infliggi i tu
 
 ---
 
-Le mosse sono regole che ti dicono quando entrano in gioco e che effetto hanno. Una mossa dipende da un'azione nella fiction e ha sempre un qualche effetto nella fiction. Per "nella fiction" s'intende che l'azione e l'effetto appartengono al mondo dei personaggi che stiamo descrivendo. Nella mossa sopra l'innesco è "quando attacchi un nemico in mischia". L'effetto è ciò che segue: devi tirare i dadi e in base al risultato possono accadere diversi effetti nella fiction.
+Una mossa indica sia **l’innesco** che la porta in gioco che il proprio **effetto**. Una mossa si innesca, ovvero si attiva ed entra in gioco, a partire da un evento nel racconto e ha sempre un qualche effetto sul racconto. Con questo s’intende che l’innesco e l’effetto appartengono al mondo di fantasia abitato dai personaggi. Nella mossa sopra l’innesco è «quando attacchi un nemico in mischia». L’effetto è che devi tirare i dadi e in base al risultato diversi eventi possono accadere nel racconto.
 
-Quando un giocatore descrive il suo personaggio fare qualcosa che innescherebbe una mossa, la mossa si attiva e le sue regole vengono applicate. Se la mossa richiede un tiro, il suo testo spiegherà che dadi tirare e come leggerne i risultati.
+Quando un giocatore descrive il suo personaggio fare qualcosa che innescherebbe una mossa, la mossa obbligatoriamente si attiva e il suo effetto viene applicatio. Se la mossa richiede un tiro di dadi, il suo testo spiegherà che dadi tirare e come interpretarne il risultato.
 
-Un personaggio non può commettere un'azione nel *racconto* che innescherebbe una mossa senza che essa si inneschi. Per esempio, se Isaac dice al GM che il suo personaggio sfreccia di fianco a un orco inferocito e munito di ascia per dirigersi verso una porta, innesca la mossa *sfidare il pericolo* perché il suo innesco è «quando agisci nonostante una minaccia incombente». Isaac non può affermare che il suo personaggio supera l'orco senza eseguire la mossa <span class="dw-move">sfidare il pericolo</span>, e non può eseguire la mossa <span class="dw-move">sfidare il pericolo</span> se non sussiste una minaccia incombente o una circostanza sventurata. Le mosse e la fiction procedono di pari passo.
+Un personaggio non può commettere un'azione nel *racconto* che innescherebbe una mossa senza effettivamente innescarla. Per esempio, se Isaac dice al GM che il suo personaggio sfreccia oltre a un orco inferocito e munito di ascia per dirigersi verso una porta, innesca la mossa _Sfidare il Pericolo_{:.mossa} perché il suo innesco è «quando agisci nonostante una minaccia incombente». Isaac non può affermare che il suo personaggio supera l'orco senza che si esegua la mossa _Sfidare il Pericolo_{:.mossa}, ed egualmente non può eseguire la mossa _Sfidare il Pericolo_{:.mossa} se non sussiste una minaccia incombente o una circostanza sventurata. Le mosse e il racconto procedono di pari passo.
 
-Ciascuno al tavolo dovrebbe prestare attenzione all'attivazione. Se non è chiaro se una mossa sia stata innescata o meno, bisogna discuterne insieme per mettere in chiaro la situazione. Fai domande alle persone coinvolte finché tutti non la vedono allo stesso modo, e poi tira i dadi, o non tirarli, a seconda della situazione.
+Tutti i partecipanti al gioco devono prestare attenzione agli inneschi delle mosse, e in questo il GM non ha poteri o responsabilità diverse dai giocatori. Se non è chiaro se una mossa sia stata innescata o meno, bisogna discuterne insieme per mettere in chiaro la situazione. Fatevi domande a vicenda, chiarite esattamente cosa sta succedendo nel _racconto_, e poi applicate o meno la mossa a seconda di quello che avete deciso.
 
-Anche i mostri, i personaggi non giocanti e le altre bestie assortite del GM hanno delle mosse, ma funzionano in modo diverso, spiegato nel capitolo «Il GM».
+> **NdC**: Tenere conto anche dell’intento dei personaggi, e non solo delle loro azioni superficiali, aiuta a dissolvere i dubbi.
+{:.nota-curatore}
+
+Anche il GM fa uso di mosse per controllare i mostri e i personaggi non dei giocatori, ma funzionano in modo diverso. Sono descritte nel capitolo del GM, ma se hai intenzione di fare il giocatore non avrai bisogno di leggerlo.
 
 ## Mosse e Dadi
 
-La maggior parte delle mosse include la frase «tira+x» dove 'x' è uno dei tuoi modificatori di attributo (ad esempio COS). A meno che la mossa non dica diversamente, «tira» significa sempre che devi tirare due dadi a sei facce, sommare i loro risultati, e aggiungere il modificatore. Alcune mosse ti chiederanno di aggiungere un valore specifico invece di un modificatore di attributo.
+La maggior parte delle mosse include la frase «tira+x» dove 'x' è il modificatore associato a un attributo (ad esempio COS). A meno che la mossa non specifichi diversamente, «tira» significa sempre che devi tirare due dadi a sei facce, sommare i loro risultati, e aggiungere il modificatore. Alcune mosse ti faranno aggiungere un valore specifico invece di un modificatore di attributo.
 
-> Sto facendo una mossa che mi chiede di tirare+FOR e il mio modificatore di FOR è +1. Ho tirato due dadi a sei facce e ho fatto uno e quattro. Il mio totale è sei.
+> **Esempio:** una mossa indica di tirare+FOR e il mio modificatore di FOR è +1. Se tiro due dadi a sei facce ed escono 6 e 4 il risultato è 6 + 4 + 1 = 11.
+{:.esempio}
 
-Il risultato è sempre in una di tre categorie. Un totale di 10 o più (scritto 10+) è il risultato migliore. Un totale di 7–9 è comunque un successo, ma dovrai fare qualche compromesso o pagare un prezzo. Un 6 o meno significa guai, ma otterrai un punto esperienza.
+Quando una mossa indica di tirare, significa che qualcosa può andare storto. Ci sono tre esiti possibili in base al risultato dei dadi.
 
-I tiri per i danni funzionano in modo diverso: si usano dadi diversi a seconda di chi o cosa infligge i danni.
+Un totale di 10 o più (scritto 10+) è un **successo completo**, vuol dire che tutto va a buon fine. Un totale di 7–9 è un **successo parziale**: otterrai ciò che volevi, ma dovrai fare un compromesso o sacrificare qualcosa. Un 6 o meno significa un **fallimento**, ovvero che ti succederà qualcosa di brutto, ma otterrai un punto esperienza. Il fallimento comporta sempre delle conseguenze negative, e il GM ti dirà quali sono.
+
+> **NdC**: Fallire non significa mai che il tuo personaggio «non riesce a fare qualcosa». Ad esempio, quando il tuo personaggio prova a scassinare velocemente una porta, potresti innescare _Sfidare il Pericolo_{:.mossa} se delle guardie ti stanno cercando. Con un fallimento, il GM potrebbe dirti che le guardie ti trovano proprio mentre stai aprendo la serratura. Se invece non sussiste alcun pericolo, ed è chiaro che il tuo personaggio è in grado di aprire quella serratura, la aprirà e basta. Il fallimento ha sempre conseguenze attive. Per approfondire, leggi il capitolo «Fare il GM».
+{:.nota-curatore}
+
+I tiri per i danni funzionano in modo diverso: si usano dadi diversi a seconda di chi o che cosa infligga i danni.
 
 ### I Tre Esiti
 
-* **10+**: Lo fai senza problemi.
+* **10+**: Ottieni ciò che volevi senza problemi.
 
-* **7–9**: Lo fai ma con imprevisti o un prezzo da pagare.
+* **7–9**: Ottieni ciò che volevi, con imprevisti o un prezzo da pagare.
 
-* **6-**: Il GM racconta le conseguenze e ottieni un PE.
+* **6-**: Sei nei guai. Il GM ti dirà le conseguenze, e tu ottieni un PE.
 
 ## Mosse ed Equipaggiamento
 
-Il più importante ruolo dell'equipaggiamento di un personaggio è di fornire dettagli e spunti per l'innesco e la descrizione delle mosse. Un personaggio senza un qualche tipo di arma non attiverà la mossa <span class="dw-move">taglia e spacca</span> mentre combatte un drago, perché un pugno a mani nude non ha un grande effetto su delle scaglie spesse un centimetro, e dunque non conta al fine di attivare la mossa.
+Il più importante ruolo dell'equipaggiamento di un personaggio è di fornire dettagli e spunti per l'innesco e per la descrizione delle mosse. Un personaggio senza un qualche tipo di arma non attiverà la mossa _Gettarsi nella Mischia_{:.mossa} mentre combatte un drago, perché un pugno a mani nude non ha un grande effetto su delle scaglie spesse un centimetro, e dunque non conta al fine di attivare la mossa.
 
 Allo stesso modo, l'equipaggiamento può evitare di farti attivare una mossa. Scalare uno strapiombo di ghiaccio solitamente richiede di *sfidare il pericolo*, ma con della buona attrezzatura da scalata potrebbe non sussistere la minaccia imminente o la circostanza sventurata che attiva la mossa.
 
-In particolare, cambiando le armi è probabile che cambino anche le mosse che puoi fare. Un personaggio con un pugnale in mano può facilmente trafiggere il goblin che gli morde la gamba, attivando *taglia e spacca*, mentre un personaggio con un'alabarda avrà molta più difficoltà a colpire un avversario così vicino.
+In particolare, cambiando le armi è probabile che cambino anche le mosse che puoi fare. Un personaggio con un pugnale in mano può facilmente trafiggere il goblin che gli morde la gamba, attivando _Gettarsi nella Mischia_{:.mossa}, mentre un personaggio con un'alabarda avrà molta più difficoltà a colpire un avversario così vicino.
 
 Equipaggiamento e attrezzatura di ogni tipo sono dotati di etichette. Le etichette sono parole che descrivono gli oggetti. Alcune etichette hanno dei precisi effetti sulle regole (ad esempio, riduzione dei danni per l'armatura o un bonus magico a qualche mossa o attributo). Altre etichette hanno un significato solo nella fiction (come l'etichetta *vicino*, che descrive la lunghezza dell'arma e quanto vicino devono essere i tuoi nemici perché tu li possa attaccare). Le etichette ti aiutano a descrivere le azioni del tuo personaggio quando usa gli oggetti e danno informazioni al GM su come gli oggetti che usi possano ritorcertisi contro o complicarti la vita quando fallisci un tiro.
 
 ## Gli Effetti delle Mosse
 
-Gli effetti delle mosse riguardano sempre il mondo della fiction che i personaggi abitano. Un 10+ su *taglia e spacca* non ha solo un effetto meccanico, ma significa che hai attaccato qualcosa con successo e gli hai fatto del male.
+Gli effetti delle mosse riguardano sempre il _racconto_, ovvero hanno un effetto sul mondo che i personaggi abitano. Un 10+ su _Gettarsi nella Mischia_{:.mossa} non ha solo un effetto meccanico, ma significa che hai colpito qualcosa o qualcuno con un’arma e gli hai fatto del male. 
 
-Una volta che hai capito quali sono gli effetti della mossa, inseriscili nella fiction e torna alla conversazione. Devi sempre tornare a ciò che sta accadendo nel gioco.
+Una volta che hai capito quali sono gli effetti della mossa, introducili nel racconto e torna alla conversazione di cui parlavamo prima. Devi sempre tornare a parlare di ciò che sta accadendo nel racconto.
 
-Alcune mosse hanno degli effetti meccanici immediati, come infliggere danno o dare a qualcuno un bonus al loro prossimo tiro. Questi effetti sono sempre un riflesso del mondo della fiction in cui si trovano i personaggi; assicurati di usare la narrazione per descrivere gli effetti della mossa.
+Alcune mosse hanno degli effetti meccanici immediati, come infliggere danno o dare a qualcuno un bonus al suo prossimo tiro. Questi effetti rappresentano comunque elementi del _racconto_ di cui i personaggi fanno parte: assicurati dunque di raccontare sempre ciò che succede nel mondo di gioco quando descrivi gli effetti di una mossa.
+
+Diventerà rilevante, dato che il _racconto_ può influenzare l’innesco di mosse future.
 
 ### Alcune mosse …
 
-**… Usano la frase "infliggi danno".** Infliggere danni significa che tiri i dadi di danno della tua classe; a volte anche la tua arma aggiungerà o sottrarrà dei danni. Usi i tuoi danni ogniqualvolta fai un attacco che potrebbe ragionevolmente far del male al tuo bersaglio. Solitamente questo significa che hai un'arma in mano, ma anche i pugni possono essere armi con il giusto addestramento o in una situazione interessante.
+**… Usano la frase «infliggi danno».** Infliggere danni significa che tiri i dadi di danno della tua classe; a volte anche la tua arma aggiungerà o sottrarrà dei danni. Usi i tuoi danni ogniqualvolta fai un attacco che potrebbe ragionevolmente far del male al tuo bersaglio. Solitamente questo significa che hai un'arma in mano, ma anche i pugni possono essere armi con il giusto addestramento o in una situazione interessante.
 
-**… Dicono «prendi +1 al prossimo tiro».** Questo significa che aggiungi +1 al prossimo tiro di una mossa (non un tiro di danni). Il bonus può essere più grande di +1, o anche una penalità, ad esempio -1. Potrebbe esserci anche un prerequisito, come «prendi +1 al prossimo tiro di *taglia e spacca*», nel qual caso il bonus si applica solo alla tua prossima mossa di *taglia e spacca*, e a nessun'altra.
+**… Dicono «prendi +1 al prossimo tiro».** Questo significa che aggiungi +1 al prossimo tiro di una mossa (non un tiro di danni). Il bonus può essere più grande di +1, o anche una penalità, ad esempio -1. Potrebbe esserci anche un prerequisito, come «prendi +1 al prossimo tiro di _Gettarsi nella Mischia_{:.mossa}», nel qual caso il bonus si applica solo alla tua prossima mossa di _Gettarsi nella Mischia_{:.mossa}, e a nessun'altra.
 
-**… Dicono «prendi +1 continuato».** Questo significa che aggiungi +1 ai tiri di tutte le mosse (non i tiri di danni). Il bonus può essere più grande di +1, o anche una penalità, ad esempio -1. Potrebbe esserci anche un prerequisito, come «prendi +1 continuato a *raffica*». Un bonus continuato specifica anche che cosa ne causa il termine, ad esempio «finché non sciogli l'incantesimo» o «finché non ti redimi agli occhi del tuo dio».
+**… Dicono «prendi +1 continuato».** Questo significa che aggiungi +1 ai tiri di tutte le mosse (non i tiri di danni). Il bonus può essere più grande di +1, o anche una penalità, ad esempio -1. Potrebbe esserci anche un prerequisito, come «prendi +1 continuato a _Raffica_{:.mossa}». Un bonus continuato specifica anche che cosa ne causa il termine, ad esempio «finché non sciogli l'incantesimo» o «finché non ti redimi agli occhi del tuo dio».
 
-**… Ti danno «riserva».** La riserva è una valuta che puoi spendere per fare delle scelte successive all'attivazione della mossa spendendola come descritto. La riserva è sempre relativa alla mossa che l'ha generata; ad esempio, non puoi spendere la riserva di <span class="dw-move">difendere</span> per <span class="dw-move">esperto di trappole</span> o viceversa.
+**… Ti danno «riserva».** La riserva è una valuta che puoi spendere per fare delle scelte successive all'attivazione della mossa spendendola come descritto. La riserva è sempre relativa alla mossa che l'ha generata; ad esempio, non puoi spendere la riserva di _Difendere_{:.mossa} per _Esperto di Trappole_{:.mossa} o viceversa.
 
-**… Ti presentano una scelta.** La scelta che fai, come in tutti gli effetti delle mosse, detta anche ciò che accade nella fiction, in aggiunta ad eventuali effetti meccanici. Quando ottieni 10+ in *taglia e spacca*, la scelta che fai di infliggere più danni al costo di aprire le tue difese è esattamente quello che sta accadendo al tuo personaggio: è abbastanza in vantaggio da poter andare sul sicuro o tentare la sorte.
+**… Ti presentano una scelta.** La scelta che fai, come in tutti gli effetti delle mosse, detta anche ciò che accade nella fiction, in aggiunta ad eventuali effetti meccanici. Quando ottieni 10+ in _Gettarsi nella Mischia_{:.mossa}, la scelta che fai di infliggere più danni al costo di aprire le tue difese è esattamente quello che sta accadendo al tuo personaggio: è abbastanza in vantaggio da poter andare sul sicuro o tentare la sorte.
 
-**… Ti danno la possibilità di raccontare** qualcosa del tuo personaggio e della sua storia. Quando *declami conoscenze* ti potrebbe essere chiesto come fai a sapere le informazioni che ti vengono rivelate dal GM. Usa questa opportunità per dare un contributo al gioco e mostrare chi è davvero il tuo personaggio. Ricordati solo quali sono i fatti prestabiliti e non contraddire nulla che è stato già detto.
+**… Ti danno la possibilità di raccontare** qualcosa del tuo personaggio e della sua storia. Quando _Declami Conoscenze_{:.mossa} il GM potrebbe chiederti come fai a sapere le informazioni che ti ha rivelato. Usa questa opportunità per dare un contributo al gioco e mostrare chi è davvero il tuo personaggio. Ricordati solo quali sono i fatti prestabiliti e non contraddire nulla che sia stato già detto.
 
 **… Ti dicono «segna un PE».** Vuol dire che devi aggiungere 1 al tuo totale di punti esperienza.
 
@@ -122,7 +133,7 @@ Aggiungi l'etichetta *ignora armatura* se la fonte è molto grande o se si tratt
 
 L'armatura temporanea o circostanziale funziona allo stesso modo dell'armatura che si indossa: armatura 1 per una copertura parziale, armatura 2 per una copertura integrale.
 
-I danni vengono inflitti in base alla fiction. Le mosse che infliggono danni, come *taglia e spacca*, sono semplicemente questo: la mossa dice che i danni vengono inflitti nella fiction. I danni possono essere inflitti anche senza una mossa, se ciò consegue dalla fiction.
+I danni vengono inflitti in base alla fiction. Le mosse che infliggono danni, come _Gettarsi nella Mischia_{:.mossa}, sono semplicemente questo: la mossa dice che i danni vengono inflitti nella fiction. I danni possono essere inflitti anche senza una mossa, se ciò consegue dalla fiction.
 
 Spesso, la perdita di PF è solo parte dell'effetto. Se il danno è generico, come per il cadere in un fossato, perdere i PF è probabilmente l'unica conseguenza. Quando il danno è specifico, come per un orco che ti tira un braccio lussandoti la spalla, i PF dovrebbero essere parte dell'effetto ma non tutto quanto. Il problema principale è sistemare il braccio slogato: come farai adesso a impugnare una spada o a lanciare un incantesimo? Allo stesso modo, se vieni decapitato non è una perdita di PF, sei morto e basta.
 
@@ -489,7 +500,7 @@ Alcuni non hanno nemmeno bisogno di armi e armatura. Uno scaltro stregone o un p
 
 Quando si combattono i mostri, è una scommessa alla pari: la tua vita contro la loro. Devi saperlo quando li affronti. Se puoi evitarlo, non combattere mai equamente. A meno che tu sia in una posizione di vantaggio è meglio mettersi a cercarne una piuttosto che tentare la sorte in un combattimento. Trova le loro debolezze, sfrutta i tuoi punti di forza, e vivrai abbastanza da goderti il bottino.
 
-Combattere spesso significa attivare mosse come *taglia e spacca*, *difendere* o *raffica*. Anche*sfidare il pericolo* può apparire facilmente, così come mosse di classe come *lanciare incantesimi*. Il combattimento migliore è quello dove prendi di sorpresa il tuo avversario — siccome *taglia e spacca* si attiva quando attacchi in mischia, e un nemico indifeso non è davvero in mischia, la mossa non si attiva — semplicemente gli infilzi un'arma o un incantesimo nella schiena e infliggi i tuoi danni.
+Combattere spesso significa attivare mosse come _Gettarsi nella Mischia_{:.mossa}, _Difendere_{:.mossa} o _Raffica_{:.mossa}. Anche _Sfidare il Pericolo_{:.mossa} può apparire facilmente, così come mosse di classe come *lanciare incantesimi*. Il combattimento migliore è quello dove prendi di sorpresa il tuo avversario — siccome _Gettarsi nella Mischia_{:.mossa} si attiva quando attacchi in mischia, e un nemico indifeso non è davvero in mischia, la mossa non si attiva — semplicemente gli infilzi un'arma o un incantesimo nella schiena e infliggi i tuoi danni.
 
 I mostri solitamente appartengono ad alcune categorie. Gli umanoidi ti assomigliano per forma: orchi, goblin, e così via. Le bestie sono animali, ma non docili come Bessie la mucca: pensa a corna lunghe mezzo metro e sacche piene di acido. I costrutti sono vita artificiale. Mostri planari che vengono da oltre questo mondo, da luoghi che si possono soltanto immaginare. I non-morti sono i peggiori: ciò che è già morto è terribilmente difficile da uccidere ancora.
 

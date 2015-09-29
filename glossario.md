@@ -12,7 +12,7 @@ layout: default
 		<th>Categoria</th>
 	</tr>
 	<tr>
-		<td>Taglia e Spacca</td>
+		<td>Gettarsi nella Mischia (precedentemente Taglia e Spacca)</td>
 		<td>Assalire</td>
 		<td>Hack and Slash</td>
 		<td>Mosse Base</td>
