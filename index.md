@@ -12,7 +12,7 @@ Benvenuti alla **traduzione italiana di [Dungeon World][dw]**, il gioco di ruolo
 
 **Ecco come lo presenta proprio Adam Koebel, coprogettista del gioco:**
 
-> Alle persone abituate ad altri giochi di ruolo, di solito chiedo: «Raccontami dell'ultima volta che hai giocato ad AD&D / Pathfinder / D&D 4E, e poi li ascolto mentre ricordano. Mi raccontano della loro **fantastica avventura**: nemici sconfitti con noncuranza, salti rocamboleschi su precipizi, e quell'idea geniale dell'ultimo minuto che ha salvato il gruppo. Quando hanno finito, gli faccio notare che non si sono ricordati le regole, ma ciò che è **avvenuto durante il gioco** ai personaggi. Si ricordano la *fiction*, gli eventi, la storia.
+> Alle persone abituate ad altri giochi di ruolo, di solito chiedo: «Raccontami dell'ultima volta che hai giocato ad AD&D / Pathfinder / D&D 4E, e poi li ascolto mentre ricordano. Mi raccontano della loro **fantastica avventura**: nemici sconfitti con noncuranza, salti rocamboleschi su precipizi, e quell'idea geniale dell'ultimo minuto che ha salvato il gruppo. Quando hanno finito, gli faccio notare che non si sono ricordati le regole, ma ciò che è **avvenuto durante il gioco** ai personaggi. Si ricordano il *racconto*, gli eventi, la storia.
 > 
 > Poi gli dico: «Vi va di provare un gioco che vi dà queste senzazioni **anche durante la partita**, e non solo dopo?» e da lì è una strada in discesa.﻿
 

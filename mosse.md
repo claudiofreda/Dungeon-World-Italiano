@@ -99,7 +99,7 @@ Quando **prendi la mira per colpire un nemico a distanza**, tira+DES. &#x2734;Co
 
 Per _Raffica_{:.mossa} s'intende nella sua completezza l'atto di estrarre, mirare e tirare con un'arma a distanza o di lanciare un'arma da lancio. Il vantaggio nell'usare un'arma a distanza rispetto a un'arma da mischia è che l'attaccante ha meno possibilità di subire un attacco a sua volta. Ovviamente, deve preoccuparsi delle munizioni e di avere la linea di tiro libera.
 
-Sul 7–9, intendi "pericolo" con un senso ampio. Forse è una perdita d'equilibrio, o forse significa finire sulla traiettoria di una lama, o ancora rivelare il tuo bel nascondiglio da cecchino ai nemici. Qualunque cosa sia, è incombente ed è sempre qualcosa che fa in modo che il GM dica "Che cosa fai?". Molto spesso, il pericolo sarà qualcosa che ti obbligherà a dedicare la tua attenzione a evitarlo o a _Sfidare il Pericolo_{:.mossa}.
+Sul 7–9, intendi "pericolo" con un senso ampio. Forse è una perdita d'equilibrio, o forse significa finire sulla traiettoria di una lama, o ancora rivelare il tuo bel nascondiglio da cecchino ai nemici. Qualunque cosa sia, è incombente ed è sempre qualcosa che fa in modo che il GM dica «Che cosa fai?». Molto spesso, il pericolo sarà qualcosa che ti obbligherà a dedicare la tua attenzione a evitarlo o a _Sfidare il Pericolo_{:.mossa}.
 
 Se stai lanciando qualcosa che non ha munizioni (ad esempio, se hai una mossa che ti permette di lanciare lo scudo) non puoi scegliere di spendere un punto munizioni. Scegli una delle altre due opzioni.
 

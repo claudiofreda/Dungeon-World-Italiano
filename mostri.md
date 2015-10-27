@@ -18,13 +18,13 @@ Il principio *pensa pericoloso* riassume questa filosofia: pensa a ogni mostro c
 
 Un mostro smette di essere una semplice munizione quando qualcosa nel mondo sposta l’attenzione su di lui. Ciò potrebbe essere un tiro di *declamare conoscenze* che conduce la tua descrizione in una direzione interessante oppure il risultato del tuo far domande e sfruttare le risposte. O magari i personaggi sono stati sopraffatti in battaglia e costretti a fuggire, sviluppando un senso di paura e rispetto nei confronti della bestia che hanno combattuto. Quando accadono cose del genere, sentiti libero di dare al mostro un nome e prendi in considerazione di creare un pericolo per rappresentarlo.
 
-Una cosa su cui i tuoi obiettivi e princìpi non dicono alcunché è creare combattimenti equi. Gli eroi saranno spesso in svantaggio numerico o con ridicole probabilità di vittoria: a volte saranno costretti a ritirarsi e a formulare un nuovo piano. A volte subiranno delle perdite. Quando aggiungi un mostro a un fronte, lo inserisci in un dungeon o lo crei al momento, la tua prima responsabilità è verso la fiction (*dipingi un mondo fantastico*) e verso la creazione di una minaccia reale per i personaggi (*rendi i personaggi eroi*), non verso l’equità dei combattimenti. Giocare a Dungeon World non significa combattimenti equi e contare punti esperienza; significa andare all’avventura e sfidare la morte con le proprie azioni!
+Una cosa su cui i tuoi obiettivi e princìpi non dicono alcunché è creare combattimenti equi. Gli eroi saranno spesso in svantaggio numerico o con ridicole probabilità di vittoria: a volte saranno costretti a ritirarsi e a formulare un nuovo piano. A volte subiranno delle perdite. Quando aggiungi un mostro a un fronte, lo inserisci in un dungeon o lo crei al momento, la tua prima responsabilità è verso il *racconto* (*dipingi un mondo fantastico*) e verso la creazione di una minaccia reale per i personaggi (*rendi i personaggi eroi*), non verso l’equità dei combattimenti. Giocare a Dungeon World non significa combattimenti equi e contare punti esperienza; significa andare all’avventura e sfidare la morte con le proprie azioni!
 
 # Elementi di un Mostro
 
 Ogni mostro ha delle **mosse** che descrivono il suo comportamento e le sue capacità. Come le normali mosse del GM, le metti in gioco quando c’è una pausa nell’azione o quando i giocatori ti danno un’opportunità d’oro. Come con le altre mosse del GM possono essere pesanti o leggere a seconda delle circostanze e della mossa: una mossa irreversibile e immediata è pesante, una mossa imminente o facile da evitare è leggera.
 
-Ciascun mostro ha un **istinto** che descrive i suoi obiettivi a un livello astratto. Alcuni mostri vivono per la vittoria, o per i tesori, o semplicemente per il sangue. L’istinto di un mostro ti guiderà per usarlo nella fiction.
+Ciascun mostro ha un **istinto** che descrive i suoi obiettivi a un livello astratto. Alcuni mostri vivono per la vittoria, o per i tesori, o semplicemente per il sangue. L’istinto di un mostro ti guiderà per usarlo nel *racconto*.
 
 Le altre caratteristiche del mostro vengono dalla **descrizione**. È con la descrizione che conosci davvero che cos’è quel mostro, tutti gli altri elementi ne sono solo un riflesso.
 
@@ -38,7 +38,7 @@ I **PF** di un mostro sono la misura di quanti danni può subire prima di morire
 
 Alcuni mostri sono abbastanza fortunati da poter godere di **armatura**. È come l’armatura dei giocatori: quando un mostro con armatura subisce danni sottrae l’armatura dai danni subiti.
 
-Le **qualità speciali** sono degli aspetti innati del mostro che sono importanti in gioco. Fanno da guida alla fiction, e quindi alle mosse. Una qualità come *intangibile* significa esattamente quello: gli oggetti ordinari ci passano attraverso. Significa che colpirlo con una spada ordinaria non è *tagliare e spaccare*, per iniziare.
+Le **qualità speciali** sono degli aspetti innati del mostro che sono importanti in gioco. Fanno da guida al *racconto*, e quindi alle mosse. Una qualità come *intangibile* significa esattamente quello: gli oggetti ordinari ci passano attraverso. Significa che colpirlo con una spada ordinaria non attiva *gettarsi nella mischia*, per iniziare.
 
 ## Mostri Senza Statistiche
 

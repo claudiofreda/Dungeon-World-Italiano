@@ -189,7 +189,7 @@ Dopo ogni mossa che fai, chiedi sempre "Che cosa fai?".
 
 ### Usa la mossa di un mostro, un pericolo, o un luogo.
 
-Ciascun mostro in un'avventura ha delle mosse ad esso associate, come le hanno molti luoghi. La mossa di un mostro o di un luogo è solo una descrizione di che cosa fa quel mostro o quel luogo, ad esempio "scagliare persone" o "creare un collegamento tra piani". Se la mossa di un giocatore (ad esempio *taglia e spacca*) dice che il mostro ha diritto a un attacco, fai una mossa offensiva con quel mostro.
+Ciascun mostro in un'avventura ha delle mosse ad esso associate, come le hanno molti luoghi. La mossa di un mostro o di un luogo è solo una descrizione di che cosa fa quel mostro o quel luogo, ad esempio "scagliare persone" o "creare un collegamento tra piani". Se la mossa di un giocatore (ad esempio _Gettarsi nella Mischia_{:.mossa}) dice che il mostro ha diritto a un attacco, fai una mossa offensiva con quel mostro.
 
 Anche i pericoli ricorrenti dell'avventura hanno delle mosse a loro associate. Usa queste mosse per mettere quel pericolo in gioco, il che potrebbe voler dire altri mostri.
 
@@ -315,7 +315,7 @@ Ci sono delle situazioni comuni che accadono spesso in Dungeon World. Ecco come 
 
 ### Combattimenti
 
-Prima o poi si sguaineranno le spade e si verserà del sangue. Quando questo accade i personaggi probabilmente cominceranno a *tagliare e spaccare*, fare *raffiche* e *difendere*. Pensa oltre al semplice scambio di danni. Forse i mostri stanno cercando di catturare i personaggi o di proteggere qualcosa da loro. Concentrati sull'obiettivo dello scontro; gli obiettivi di ciascuna parte e in che modo potrebbe modificare l'equilibrio della battaglia.
+Prima o poi si sguaineranno le spade e si verserà del sangue. Quando questo accade i personaggi probabilmente cominceranno a *gettarsi nella mischia*, fare *raffiche* e *difendere*. Pensa oltre al semplice scambio di danni. Forse i mostri stanno cercando di catturare i personaggi o di proteggere qualcosa da loro. Concentrati sull'obiettivo dello scontro; gli obiettivi di ciascuna parte e in che modo potrebbe modificare l'equilibrio della battaglia.
 
 Nessun mostro che si rispetti sta fermo a farsi picchiare. Il combattimento è una cosa dinamica, con creature che si muovono dentro e fuori portata, si mettono al riparo e si ritirano. A volte è il campo di battaglia stesso a cambiare. Fai in modo che i tuoi mostri facciano delle azioni a cui i giocatori devono rispondere. Fai in modo di non usare solo la mossa *infliggi danno*, anche in un combattimento.
 

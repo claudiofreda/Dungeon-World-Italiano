@@ -40,21 +40,6 @@ Tutti i partecipanti al gioco devono prestare attenzione agli inneschi delle mos
 
 Anche il GM fa uso di mosse per controllare i mostri e i personaggi non dei giocatori, ma funzionano in modo diverso. Sono descritte nel capitolo del GM, ma se hai intenzione di fare il giocatore non avrai bisogno di leggerlo.
 
-## Mosse e Dadi
-
-La maggior parte delle mosse include la frase «tira+x» dove 'x' è il modificatore associato a un attributo (ad esempio COS). A meno che la mossa non specifichi diversamente, «tira» significa sempre che devi tirare due dadi a sei facce, sommare i loro risultati, e aggiungere il modificatore. Alcune mosse ti faranno aggiungere un valore specifico invece di un modificatore di attributo.
-
-> **Esempio:** una mossa indica di tirare+FOR e il mio modificatore di FOR è +1. Se tiro due dadi a sei facce ed escono 6 e 4 il risultato è 6 + 4 + 1 = 11.
-{:.esempio}
-
-Quando una mossa indica di tirare, significa che qualcosa può andare storto. Ci sono tre esiti possibili in base al risultato dei dadi.
-
-Un totale di 10 o più (scritto 10+) è un **successo completo**, vuol dire che tutto va a buon fine. Un totale di 7–9 è un **successo parziale**: otterrai ciò che volevi, ma dovrai fare un compromesso o sacrificare qualcosa. Un 6 o meno significa un **fallimento**, ovvero che ti succederà qualcosa di brutto, ma otterrai un punto esperienza. Il fallimento comporta sempre delle conseguenze negative, e il GM ti dirà quali sono.
-
-> **NdC**: Fallire non significa mai che il tuo personaggio «non riesce a fare qualcosa». Ad esempio, quando il tuo personaggio prova a scassinare velocemente una porta, potresti innescare _Sfidare il Pericolo_{:.mossa} se delle guardie ti stanno cercando. Con un fallimento, il GM potrebbe dirti che le guardie ti trovano proprio mentre stai aprendo la serratura. Se invece non sussiste alcun pericolo, ed è chiaro che il tuo personaggio è in grado di aprire quella serratura, la aprirà e basta. Il fallimento ha sempre conseguenze attive. Per approfondire, leggi il capitolo «Fare il GM».
-{:.nota-curatore}
-
-I tiri per i danni funzionano in modo diverso: si usano dadi diversi a seconda di chi o che cosa infligga i danni.
 
 ### I Tre Esiti
 

@@ -76,7 +76,7 @@ Durante la prima sessione, hai un po' di obiettivi specifici:
 
 ## Introduci dettagli, descrivi
 
-Tutte le idee e le immagini nella tua mente non entrano nella fiction del gioco finchè non le condividi, le descrivi e le definisci. La prima sessione è il momento per delineare l'aspetto delle cose, chi comanda, che vestiti usano, com'è fatto il mondo e l'aspetto della zona circostante. Descrivi tutto, ma lascia abbastanza spazio da permettere di approfondire in futuro. Introduci qualche dettaglio volto a rendere realistiche le descrizioni. 
+Tutte le idee e le immagini nella tua mente non entrano a far parte del *racconto* alla base del gioco finchè non le condividi, le descrivi e le definisci. La prima sessione è il momento per delineare l'aspetto delle cose, chi comanda, che vestiti usano, com'è fatto il mondo e l'aspetto della zona circostante. Descrivi tutto, ma lascia abbastanza spazio da permettere di approfondire in futuro. Introduci qualche dettaglio volto a rendere realistiche le descrizioni. 
 
 ## Usa ciò che i giocatori ti forniscono
 

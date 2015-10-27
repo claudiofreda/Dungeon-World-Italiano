@@ -2,6 +2,7 @@
 title: Il Mondo
 layout: default
 ---
+
 La maggior parte della vita dell'avventuriero è spesa in polverose tombe dimenticate o in posti terrificanti colmi di pericoli mortali. Risvegliarsi nelle viscere della terra da un sonno breve ed inquieto circondati da nemici è roba di tutti i giorni. Quando arriva il momento di riemergere da questi luoghi, che sia carico del bottino di guerra o insanguinato e malconcio, un avventuriero è in cerca di sicurezza e tranquillità.
 
 Sono queste le comodità della vita cittadina: un bagno caldo, una cena a pane e idromele, la compagnia di altri uomini, elfi, nani e mezzuomini. Spesso il desiderio di tornare in questi luoghi è l'unica cosa che dà agli avventurieri la forza di continuare. Tutti loro combattono per l'oro e la gloria, ma chi non avrebbe nostalgia di un posto dove spendere quell'oro e scherzare attorno al fuoco, ascoltando storie di folli avventure?
@@ -24,7 +25,7 @@ Quando hai tempo (durante la prima sessione o durante una pausa, ad esempio) usa
 
 # Mentre Sei in Città...
 
-Quando i giocatori visitano un insediamento ci sono alcune mosse speciali che potranno fare. Queste seguono comunque il flusso della fiction del gioco. Quando i giocatori arrivano, chiedigli "Che cosa fate?". La maggior parte delle volte le azioni dei giocatori attiveranno una mossa da questa lista. Include il riposo, il rinvigorimento e il rifornirsi: sono opportunità per i giocatori di liberarsi dalle ansie e spendere il loro tesoro. Ricorda che un insediamento non è separato dalla realtà: devi continuare a fare mosse pesanti quando necessario e a pensare come le azioni (o il non agire) dei giocatori portino avanti i tuoi fronti. Il disastro incombente è sempre lì, che i giocatori lo stiano combattendo nel dungeon o lo stiano ignorando mentre si ubriacano alla taverna del posto.
+Quando i giocatori visitano un insediamento ci sono alcune mosse speciali che potranno fare. Queste seguono comunque il flusso del racconto. Quando i giocatori arrivano, chiedigli "Che cosa fate?". La maggior parte delle volte le azioni dei giocatori attiveranno una mossa da questa lista. Include il riposo, il rinvigorimento e il rifornirsi: sono opportunità per i giocatori di liberarsi dalle ansie e spendere il loro tesoro. Ricorda che un insediamento non è separato dalla realtà: devi continuare a fare mosse pesanti quando necessario e a pensare come le azioni (o il non agire) dei giocatori portino avanti i tuoi fronti. Il disastro incombente è sempre lì, che i giocatori lo stiano combattendo nel dungeon o lo stiano ignorando mentre si ubriacano alla taverna del posto.
 
 Non lasciare che la visita a un insediamento si trasformi in un continuo oziare. Ricorda, Dungeon World è un posto pericoloso e terrificante. Se i giocatori scelgono di ignorarlo, ti stanno dando un’opportunità d’oro per fare una mossa pesante. Riempi d’avventura le vite dei personaggi, che ne siano in cerca o meno. Queste mosse esistono per rendere la visita alla città un evento interessante senza sprecare un’intera sessione contrattando per il prezzo di un nuovo fodero.
 

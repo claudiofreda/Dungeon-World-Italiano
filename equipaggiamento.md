@@ -4,7 +4,7 @@ layout: default
 ---
 Le tombe ammuffite e i tesori dimenticati e riscoperti del mondo sono colmi di oggetti utili. Il guerriero potrebbe trovare una spada nuova e affilata, oppure il ladro potrebbe trovare per caso un veleno mortale. La maggior parte degli oggetti sono ordinari:né magici né intrinsecamente unici in alcun modo. Qualunque oggetto che sia magico o unico nel suo genere non è ordinario ai fini delle mosse. L’arma caratteristica del guerriero non è mai ordinaria.
 
-Ciascuno degli oggetti che compongono l’equipaggiamento avrà un certo numero di etichette. Le etichette spiegano come l’equipaggiamento influenzi il personaggio che lo usa (come *+armatura*) o indicano il modo in cui devono essere usati (come le etichette di Portata). Come ogni cosa in Dungeon World, le etichette guidano la creazione della fiction durante il gioco. Se un’arma è *scomoda*, potrebbe significare che è più probabile che tu la faccia cadere quando fallisci quel tiro di *taglia e spacca*.
+Ciascuno degli oggetti che compongono l’equipaggiamento avrà un certo numero di etichette. Le etichette spiegano come l’equipaggiamento influenzi il personaggio che lo usa (come *+armatura*) o indicano il modo in cui devono essere usati (come le etichette di Portata). Come ogni cosa in Dungeon World, le etichette guidano la creazione del racconto durante il gioco. Se un’arma è *scomoda*, potrebbe significare che è più probabile che tu la faccia cadere quando fallisci quel tiro di _Sfidare il Pericolo_{:.mossa}.
 
 Questa non è affatto una lista completa: sentitevi liberi di creare le vostre etichette.
 
@@ -16,7 +16,7 @@ Queste sono le etichette generali applicabili a più o meno qualunque oggetto. L
 
 *Scomodo:* È poco maneggevole e difficile da usare.
 
-*+Bonus*: Modifica la tua efficacia in una determinata situazione. Potrebbe essere «+1 al prossimo tiro di *declamare conoscenze*» oppure «-1 continuato a *taglia e spacca*».
+*+Bonus*: Modifica la tua efficacia in una determinata situazione. Potrebbe essere «+1 al prossimo tiro di *declamare conoscenze*» oppure «-1 continuato a _Sfidare il Pericolo_{:.mossa}».
 
 *n monete:* Quanto costa comprarlo normalmente. Se il costo include "-Carisma", negoziando un po’ si può sottrarre il punteggio di Carisma (non il modificatore) dal prezzo.
 
@@ -58,7 +58,7 @@ Le armi potrebbero avere delle etichette che esistono principalmente per aiutart
 
 *n Perforante*: Attraversa completamente l'armatura. Quando infliggi danno *n* perforante, sottrai *n* dall'armatura del nemico per questo attacco.
 
-*Precisa*: Premia gli attacchi accurati. Usi DES per *tagliare e spaccare* con quest'arma, non FOR.
+*Precisa*: Premia gli attacchi accurati. Usi DES per *gettarti in mischia* con quest'arma, non FOR.
 
 *Ricarica*: Dopo che l'hai usata per attaccare, ci vuole un po' di tempo per prepararla di nuovo all'uso.
 
